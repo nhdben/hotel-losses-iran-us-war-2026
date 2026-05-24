@@ -1,0 +1,23 @@
+event_date,event_type,event_description,severity,primary_location,conflict_phase,hotel_sector_impact,est_hotel_revenue_loss_pct,days_from_conflict_start
+2024-01-15,Political,Houthi attacks escalate in Red Sea,Medium,Yemen/Red Sea,Pre-Tension,Regional trade routes disrupted; shipping costs rise,5.1,-503
+2024-04-14,Military,Iran launches first direct missile attack on Israel,High,Israel/Iran,Pre-Tension,Gulf-wide bookings drop 12% overnight,9.8,-413
+2024-07-31,Political,Ismail Haniyeh assassinated in Tehran,High,"Tehran, Iran",Pre-Tension,Iran vows retaliation; GCC hotels see 15% cancellations,13.4,-305
+2024-10-01,Military,Israeli ground operation in Lebanon expands,High,Lebanon/Israel,Pre-Tension,Beirut hotel occupancy collapses to 22%,27.7,-243
+2024-12-20,Diplomatic,UN ceasefire talks collapse; sanctions imposed,Medium,Global,Pre-Tension,Corporate travel bans issued by 14 multinationals,14.7,-163
+2025-01-26,Military,US carrier group enters Strait of Hormuz,Very High,Strait of Hormuz,Escalation,Cruise itineraries cancelled; GCC flight bookings –18%,17.8,-126
+2025-03-15,Military,Iran seizes oil tanker in Gulf of Oman,High,Gulf of Oman,Escalation,Insurance premiums spike; shipping routes altered,8.9,-78
+2025-05-20,Diplomatic,G7 imposes additional sanctions on Iran,High,Global,Escalation,Business travel to GCC drops 24%; MICE events cancelled,24.1,-12
+2025-06-01,Military,Israeli strikes on Iranian nuclear facilities,Very High,Iran/Israel,Active Conflict,Middle East-wide hotel occupancy falls to 45% avg,30.4,0
+2025-07-04,Military,Iran launches ballistic missiles at US bases in Qatar,Extreme,Qatar/Gulf,Active Conflict,"Doha hotel closures; 35,000 guests evacuated",42.7,33
+2025-08-14,Military,Airspace closures across 12 Middle East countries,Extreme,MENA Region,Active Conflict,Daily hotel loss: $600M across GCC countries,40.3,74
+2025-09-22,Economic,Oil price reaches $140/barrel amid war fears,High,Global,Active Conflict,Tourism spending collapses; long-haul travellers cancel,39.3,113
+2025-10-10,Military,US airstrikes on Iranian missile infrastructure,Extreme,Iran/Iraq,Active Conflict,Baghdad hotels shuttered; 80% of Beirut hotels close,63.4,131
+2025-11-28,Humanitarian,UNHCR reports 2.1M new displaced persons,High,Iraq/Syria,Active Conflict,Aid workers replace tourists; RevPAR –65% in Gulf,56.1,180
+2025-12-25,Military,Iran targets Saudi Aramco facility,Very High,Saudi Arabia,Active Conflict,Riyadh hotel occupancy: 28%; Jeddah: 31%,56.4,207
+2026-01-15,Military,US-Israeli joint operations against Yemen,Very High,Yemen/Red Sea,Peak Crisis,Red Sea cruise market halted entirely,61.8,228
+2026-02-01,Economic,GCC hotel market loses $34B in forecast revenue,Extreme,GCC Region,Peak Crisis,WTTC revises 2026 outlook: –27% visitor arrivals,61.9,245
+2026-02-28,Military,US-Israeli strikes in Iran commence (Day 1),Extreme,Iran/Gulf,Peak Crisis,Peak crisis: Gulf hotels at 22–35% occupancy,69.8,272
+2026-03-05,Diplomatic,Emergency UN Security Council resolution passed,High,Global,Peak Crisis,Partial ceasefire in some zones; recovery unlikely <6m,58.8,277
+2026-04-01,Diplomatic,Ceasefire agreement announced,High,Middle East,Post-Ceasefire,Bookings begin recovering; occupancy still –35% vs 2024,42.6,304
+2026-05-15,Economic,IMF revises ME GDP growth down by 3.2%,High,Global,Post-Ceasefire,Institutional confidence returning slowly,29.6,348
+2026-06-30,Recovery,First international conferences return to Dubai,Medium,UAE,Post-Ceasefire,Dubai occupancy recovers to ~58%; still below pre-war,24.5,394

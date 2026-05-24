@@ -1,0 +1,601 @@
+cancellation_id,cancellation_date,original_checkin_date,lead_time_days,conflict_phase,hotel_chain,hotel_tier,country,city,guest_nationality,booking_type,nights_booked,guests,room_type,adr_usd,revenue_lost_usd,cancellation_reason,refund_issued,channel
+CXL-0001,2025-12-01,2025-12-31,30,Active Conflict,Hyatt Hotels,Luxury/Upper-Upscale,Qatar,Al Rayyan,Chinese,Business,5,2,Suite,1735.69,8678.45,Insurance non-coverage,Full Refund,OTA
+CXL-0002,2026-03-08,2026-03-27,19,Peak Crisis,Anantara Hotels,Luxury,Kuwait,Kuwait City,Chinese,Leisure,2,4,Suite,446.59,893.18,Safety concerns — conflict proximity,Full Refund,GDS
+CXL-0003,2026-04-30,2026-05-21,21,Post-Ceasefire,IHG Hotels & Resorts,Upper-Upscale,Bahrain,Manama,Chinese,Group,12,1,Standard,999.81,11997.7,Corporate travel ban,Partial Refund,GDS
+CXL-0004,2026-02-01,2026-02-10,9,Peak Crisis,Marriott International,Luxury/Upper-Upscale,Qatar,Doha,South African,Honeymoon,10,1,Suite,1607.27,16072.66,Force majeure — war clause,Partial Refund,OTA
+CXL-0005,2026-02-05,2026-03-21,44,Peak Crisis,Sofitel (Accor),Luxury,Saudi Arabia,Mecca,Australian,Honeymoon,1,5,Deluxe,1678.29,1678.29,Force majeure — war clause,Partial Refund,Travel Agent
+CXL-0006,2026-03-03,2026-03-21,18,Peak Crisis,Four Seasons Hotels,Luxury,Lebanon,Beirut,German,Leisure,14,3,Standard,224.47,3142.56,Insurance non-coverage,Partial Refund,Direct Website
+CXL-0007,2025-05-06,2025-05-25,19,Escalation,Jumeirah Group,Ultra-Luxury,Iraq,Baghdad,British,Honeymoon,2,6,Presidential Suite,175.56,351.13,Safety concerns — conflict proximity,No Refund,Direct Website
+CXL-0008,2026-05-15,2026-06-13,29,Post-Ceasefire,Mandarin Oriental,Ultra-Luxury,Lebanon,Beirut,Japanese,Group,4,6,Presidential Suite,698.62,2794.47,Force majeure — war clause,No Refund,Direct Website
+CXL-0009,2025-12-14,2025-12-23,9,Active Conflict,IHG Hotels & Resorts,Upper-Upscale,Lebanon,Beirut,German,MICE,12,4,Suite,1509.54,18114.51,Force majeure — war clause,Partial Refund,Direct Website
+CXL-0010,2026-01-26,2026-03-08,41,Peak Crisis,Anantara Hotels,Luxury,Saudi Arabia,Riyadh,Spanish,Business,8,5,Pool Villa,1271.28,10170.24,Airspace closure — flight cancelled,No Refund,OTA
+CXL-0011,2026-05-03,2026-05-24,21,Post-Ceasefire,Jumeirah Group,Ultra-Luxury,Oman,Muscat,Australian,Business,12,5,Standard,458.04,5496.42,Force majeure — war clause,Voucher,Travel Agent
+CXL-0012,2025-09-06,2025-10-24,48,Active Conflict,Hyatt Hotels,Luxury/Upper-Upscale,UAE,Ajman,Indian,MICE,9,5,Pool Villa,1750.28,15752.55,Flight rerouting — extended journey,Full Refund,Direct Website
+CXL-0013,2025-05-01,2025-05-11,10,Escalation,Kempinski Hotels,Luxury,Bahrain,Manama,Russian,Honeymoon,14,2,Suite,1332.69,18657.68,MICE event cancelled,Partial Refund,OTA
+CXL-0014,2025-12-10,2025-12-14,4,Active Conflict,Hilton Worldwide,Luxury/Upper-Upscale,Jordan,Amman,Brazilian,MICE,11,6,Standard,206.87,2275.57,Force majeure — war clause,No Refund,Direct Website
+CXL-0015,2024-03-03,2024-03-04,1,Pre-Tension,Accor Group,Multi-Scale,Jordan,Amman,Spanish,Honeymoon,5,3,Presidential Suite,384.86,1924.28,Force majeure — war clause,No Refund,Travel Agent
+CXL-0016,2025-07-23,2025-08-19,27,Active Conflict,Mandarin Oriental,Ultra-Luxury,Saudi Arabia,Dammam,American,MICE,10,4,Deluxe,309.53,3095.3,Airline suspension of routes,Partial Refund,GDS
+CXL-0017,2026-02-27,2026-03-09,10,Peak Crisis,Sofitel (Accor),Luxury,Iraq,Erbil,British,Leisure,10,4,Deluxe,197.01,1970.09,Cruise ship rerouted,No Refund,Direct Website
+CXL-0018,2025-11-01,2025-12-09,38,Active Conflict,Four Seasons Hotels,Luxury,Egypt,Hurghada,Brazilian,Honeymoon,12,5,Presidential Suite,1306.68,15680.12,Cruise ship rerouted,Full Refund,Corporate
+CXL-0019,2026-01-12,2026-03-13,60,Peak Crisis,Marriott International,Luxury/Upper-Upscale,Lebanon,Beirut,South Korean,Honeymoon,12,2,Deluxe,340.75,4088.95,Flight rerouting — extended journey,No Refund,Direct Website
+CXL-0020,2025-07-27,2025-09-30,65,Active Conflict,Anantara Hotels,Luxury,Qatar,Al Rayyan,South African,Business,5,5,Deluxe,1581.35,7906.75,Government travel advisory Level 4,Partial Refund,Direct Website
+CXL-0021,2025-03-24,2025-04-26,33,Escalation,Anantara Hotels,Luxury,Lebanon,Beirut,French,Leisure,8,1,Suite,628.23,5025.86,Hotel temporarily closed,Partial Refund,Travel Agent
+CXL-0022,2026-02-09,2026-03-10,29,Peak Crisis,Sofitel (Accor),Luxury,Egypt,Sharm el-Sheikh,British,Business,8,3,Presidential Suite,160.52,1284.19,Insurance non-coverage,Voucher,GDS
+CXL-0023,2025-06-01,2025-08-26,86,Active Conflict,Four Seasons Hotels,Luxury,Egypt,Hurghada,Japanese,Business,3,2,Standard,1560.43,4681.3,Safety concerns — conflict proximity,Partial Refund,OTA
+CXL-0024,2026-01-28,2026-03-23,54,Peak Crisis,Sofitel (Accor),Luxury,Lebanon,Beirut,Spanish,MICE,9,2,Presidential Suite,943.26,8489.31,Safety concerns — conflict proximity,Voucher,GDS
+CXL-0025,2026-01-28,2026-03-07,38,Peak Crisis,Sofitel (Accor),Luxury,Bahrain,Manama,Chinese,Honeymoon,1,3,Presidential Suite,1341.17,1341.17,MICE event cancelled,Partial Refund,OTA
+CXL-0026,2026-05-22,2026-06-16,25,Post-Ceasefire,Jumeirah Group,Ultra-Luxury,UAE,Sharjah,French,MICE,6,2,Suite,305.93,1835.56,Airline suspension of routes,No Refund,Corporate
+CXL-0027,2026-02-05,2026-03-14,37,Peak Crisis,Hilton Worldwide,Luxury/Upper-Upscale,Lebanon,Beirut,Brazilian,Group,9,6,Suite,660.32,5942.91,Government travel advisory Level 4,Partial Refund,GDS
+CXL-0028,2025-01-08,2025-02-26,49,Escalation,Jumeirah Group,Ultra-Luxury,Bahrain,Muharraq,Italian,Leisure,11,1,Suite,931.84,10250.19,Hotel temporarily closed,Partial Refund,Travel Agent
+CXL-0029,2025-10-14,2025-10-26,12,Active Conflict,Best Western,Mid-Scale,Saudi Arabia,NEOM area,South African,MICE,12,3,Pool Villa,1105.98,13271.81,Cruise ship rerouted,No Refund,Corporate
+CXL-0030,2026-04-22,2026-05-01,9,Post-Ceasefire,Radisson Hotel Group,Upper-Upscale,Iraq,Baghdad,French,Group,10,2,Deluxe,1670.3,16703.04,Insurance non-coverage,No Refund,Corporate
+CXL-0031,2026-03-04,2026-03-16,12,Peak Crisis,Jumeirah Group,Ultra-Luxury,Egypt,Hurghada,South Korean,Business,8,4,Suite,955.39,7643.13,Hotel temporarily closed,Voucher,OTA
+CXL-0032,2025-12-16,2025-12-25,9,Active Conflict,Accor Group,Multi-Scale,Saudi Arabia,Medina,French,Honeymoon,10,1,Standard,1114.96,11149.6,Hotel temporarily closed,No Refund,Direct Website
+CXL-0033,2025-10-04,2025-10-20,16,Active Conflict,Rotana Hotels,Upper-Upscale,Bahrain,Manama,Australian,Group,10,1,Standard,1271.3,12713.02,Corporate travel ban,Full Refund,OTA
+CXL-0034,2025-01-21,2025-02-18,28,Escalation,Wyndham Hotels,Mid/Upper-Mid,Iraq,Baghdad,Indian,MICE,5,5,Deluxe,1745.58,8727.89,Airline suspension of routes,Voucher,GDS
+CXL-0035,2026-01-21,2026-01-30,9,Peak Crisis,Hilton Worldwide,Luxury/Upper-Upscale,Kuwait,Kuwait City,Russian,Leisure,1,6,Presidential Suite,1015.55,1015.55,Force majeure — war clause,Voucher,Corporate
+CXL-0036,2024-11-17,2024-12-29,42,Pre-Tension,Wyndham Hotels,Mid/Upper-Mid,Iraq,Baghdad,South African,Leisure,8,2,Presidential Suite,1025.02,8200.17,Flight rerouting — extended journey,Voucher,Travel Agent
+CXL-0037,2026-02-19,2026-03-19,28,Peak Crisis,Rotana Hotels,Upper-Upscale,Qatar,Doha,Spanish,Business,11,4,Deluxe,344.98,3794.81,Flight rerouting — extended journey,Partial Refund,Travel Agent
+CXL-0038,2025-11-20,2025-12-01,11,Active Conflict,Jumeirah Group,Ultra-Luxury,UAE,Sharjah,Australian,Business,13,4,Suite,1086.56,14125.32,Corporate travel ban,Voucher,OTA
+CXL-0039,2026-03-24,2026-03-29,5,Peak Crisis,Rotana Hotels,Upper-Upscale,Oman,Salalah,Australian,Group,4,2,Standard,1417.56,5670.26,Government travel advisory Level 4,Full Refund,GDS
+CXL-0040,2025-11-06,2025-11-12,6,Active Conflict,Radisson Hotel Group,Upper-Upscale,Egypt,Sharm el-Sheikh,Italian,Group,4,6,Standard,1483.82,5935.27,MICE event cancelled,Voucher,Corporate
+CXL-0041,2025-10-09,2025-12-18,70,Active Conflict,Mandarin Oriental,Ultra-Luxury,Lebanon,Beirut,Japanese,MICE,2,1,Pool Villa,1681.03,3362.06,Flight rerouting — extended journey,Partial Refund,GDS
+CXL-0042,2026-03-03,2026-03-30,27,Peak Crisis,Sofitel (Accor),Luxury,Iraq,Erbil,Brazilian,Group,4,6,Suite,1661.08,6644.32,Force majeure — war clause,Voucher,OTA
+CXL-0043,2025-02-21,2025-03-12,19,Escalation,Sofitel (Accor),Luxury,Egypt,Hurghada,Spanish,MICE,8,6,Pool Villa,850.09,6800.72,Insurance non-coverage,No Refund,GDS
+CXL-0044,2026-03-25,2026-03-30,5,Peak Crisis,Rotana Hotels,Upper-Upscale,Jordan,Aqaba,Australian,Leisure,5,5,Suite,1194.47,5972.36,Corporate travel ban,Partial Refund,GDS
+CXL-0045,2026-02-02,2026-03-29,55,Peak Crisis,Four Seasons Hotels,Luxury,Oman,Muscat,Spanish,MICE,11,2,Deluxe,567.76,6245.36,Flight rerouting — extended journey,Voucher,Direct Website
+CXL-0046,2026-01-01,2026-03-13,71,Peak Crisis,Wyndham Hotels,Mid/Upper-Mid,Kuwait,Kuwait City,Chinese,Leisure,4,6,Deluxe,1179.18,4716.71,Flight rerouting — extended journey,No Refund,GDS
+CXL-0047,2026-01-05,2026-03-07,61,Peak Crisis,Wyndham Hotels,Mid/Upper-Mid,Lebanon,Beirut,Italian,Honeymoon,4,5,Suite,506.26,2025.02,Insurance non-coverage,Partial Refund,Direct Website
+CXL-0048,2026-01-16,2026-02-16,31,Peak Crisis,Best Western,Mid-Scale,Jordan,Petra,Italian,MICE,5,6,Standard,1016.02,5080.11,Flight rerouting — extended journey,Partial Refund,Travel Agent
+CXL-0049,2025-12-23,2025-12-27,4,Active Conflict,Marriott International,Luxury/Upper-Upscale,Saudi Arabia,Mecca,Spanish,MICE,12,4,Standard,510.4,6124.78,Corporate travel ban,Full Refund,OTA
+CXL-0050,2026-01-19,2026-03-12,52,Peak Crisis,Sofitel (Accor),Luxury,Oman,Muscat,Russian,Business,9,4,Deluxe,1192.21,10729.85,Force majeure — war clause,Voucher,Travel Agent
+CXL-0051,2025-09-18,2025-10-22,34,Active Conflict,Four Seasons Hotels,Luxury,Jordan,Aqaba,Brazilian,Business,1,2,Presidential Suite,510.38,510.38,Airline suspension of routes,Voucher,GDS
+CXL-0052,2025-02-07,2025-02-13,6,Escalation,Sofitel (Accor),Luxury,Iraq,Erbil,American,Leisure,14,1,Deluxe,238.06,3332.9,Cruise ship rerouted,Voucher,Travel Agent
+CXL-0053,2024-09-30,2024-10-14,14,Pre-Tension,Hilton Worldwide,Luxury/Upper-Upscale,Iraq,Erbil,Indian,Honeymoon,7,3,Presidential Suite,1761.64,12331.5,Flight rerouting — extended journey,Voucher,Direct Website
+CXL-0054,2026-01-31,2026-03-27,55,Peak Crisis,Hilton Worldwide,Luxury/Upper-Upscale,UAE,Ras Al Khaimah,Chinese,Group,5,3,Suite,504.69,2523.44,Force majeure — war clause,Voucher,Corporate
+CXL-0055,2026-02-13,2026-02-14,1,Peak Crisis,Best Western,Mid-Scale,Oman,Muscat,British,Group,1,2,Pool Villa,1404.87,1404.87,Flight rerouting — extended journey,No Refund,Travel Agent
+CXL-0056,2026-01-08,2026-03-10,61,Peak Crisis,Sofitel (Accor),Luxury,Saudi Arabia,NEOM area,American,Business,12,5,Pool Villa,1272.33,15267.96,Safety concerns — conflict proximity,Partial Refund,Travel Agent
+CXL-0057,2026-04-28,2026-05-12,14,Post-Ceasefire,Radisson Hotel Group,Upper-Upscale,Qatar,Doha,Canadian,Honeymoon,8,3,Pool Villa,750.46,6003.68,Force majeure — war clause,Full Refund,Direct Website
+CXL-0058,2026-05-02,2026-06-02,31,Post-Ceasefire,Radisson Hotel Group,Upper-Upscale,Jordan,Petra,Japanese,Leisure,1,3,Presidential Suite,1662.5,1662.5,MICE event cancelled,Full Refund,OTA
+CXL-0059,2026-02-21,2026-03-16,23,Peak Crisis,Sofitel (Accor),Luxury,Saudi Arabia,Riyadh,British,Group,7,3,Pool Villa,217.37,1521.58,Airline suspension of routes,No Refund,Travel Agent
+CXL-0060,2026-02-04,2026-03-08,32,Peak Crisis,IHG Hotels & Resorts,Upper-Upscale,Bahrain,Manama,Chinese,Group,5,5,Deluxe,1538.35,7691.76,Insurance non-coverage,No Refund,GDS
+CXL-0061,2026-01-01,2026-02-07,37,Peak Crisis,Radisson Hotel Group,Upper-Upscale,Kuwait,Kuwait City,British,Business,3,5,Standard,245.3,735.89,Flight rerouting — extended journey,Partial Refund,Travel Agent
+CXL-0062,2026-02-02,2026-02-17,15,Peak Crisis,Radisson Hotel Group,Upper-Upscale,Saudi Arabia,Medina,South Korean,Honeymoon,12,5,Suite,687.28,8247.32,Force majeure — war clause,No Refund,OTA
+CXL-0063,2026-03-26,2026-03-30,4,Peak Crisis,Marriott International,Luxury/Upper-Upscale,Oman,Muscat,British,Group,4,2,Suite,1753.33,7013.34,Insurance non-coverage,Full Refund,GDS
+CXL-0064,2025-01-14,2025-01-29,15,Escalation,IHG Hotels & Resorts,Upper-Upscale,Oman,Muscat,German,Honeymoon,14,6,Pool Villa,212.31,2972.35,Cruise ship rerouted,Voucher,Travel Agent
+CXL-0065,2025-01-06,2025-03-23,76,Escalation,Wyndham Hotels,Mid/Upper-Mid,Qatar,Doha,British,Business,14,4,Standard,731.83,10245.62,Flight rerouting — extended journey,Full Refund,GDS
+CXL-0066,2025-12-21,2025-12-21,0,Active Conflict,IHG Hotels & Resorts,Upper-Upscale,Qatar,Al Rayyan,Brazilian,Honeymoon,3,1,Suite,343.83,1031.5,Airline suspension of routes,Full Refund,Corporate
+CXL-0067,2026-05-12,2026-05-12,0,Post-Ceasefire,Hyatt Hotels,Luxury/Upper-Upscale,UAE,Sharjah,Japanese,Business,4,1,Standard,1246.1,4984.39,Insurance non-coverage,Partial Refund,OTA
+CXL-0068,2025-07-02,2025-09-28,88,Active Conflict,IHG Hotels & Resorts,Upper-Upscale,UAE,Ajman,Indian,Group,1,3,Deluxe,640.58,640.58,Hotel temporarily closed,No Refund,Travel Agent
+CXL-0069,2026-03-04,2026-03-23,19,Peak Crisis,Rotana Hotels,Upper-Upscale,Egypt,Cairo,German,MICE,13,5,Suite,1702.93,22138.14,Cruise ship rerouted,No Refund,Direct Website
+CXL-0070,2026-01-14,2026-03-02,47,Peak Crisis,Hyatt Hotels,Luxury/Upper-Upscale,Saudi Arabia,Dammam,French,Honeymoon,8,2,Deluxe,1568.28,12546.23,Insurance non-coverage,No Refund,Direct Website
+CXL-0071,2026-01-13,2026-03-18,64,Peak Crisis,Sofitel (Accor),Luxury,Oman,Muscat,Canadian,Group,6,3,Pool Villa,1216.76,7300.56,Hotel temporarily closed,Full Refund,GDS
+CXL-0072,2026-06-15,2026-06-16,1,Post-Ceasefire,Anantara Hotels,Luxury,Bahrain,Manama,Italian,Honeymoon,9,1,Suite,1099.06,9891.53,Force majeure — war clause,No Refund,Corporate
+CXL-0073,2025-06-27,2025-09-21,86,Active Conflict,Sofitel (Accor),Luxury,Oman,Muscat,Indian,Honeymoon,12,3,Standard,995.62,11947.48,Corporate travel ban,Full Refund,Corporate
+CXL-0074,2026-03-25,2026-03-27,2,Peak Crisis,Four Seasons Hotels,Luxury,Kuwait,Kuwait City,Chinese,Leisure,5,1,Presidential Suite,541.59,2707.95,Insurance non-coverage,No Refund,GDS
+CXL-0075,2026-03-18,2026-03-29,11,Peak Crisis,Sofitel (Accor),Luxury,Bahrain,Muharraq,Brazilian,Leisure,6,5,Pool Villa,992.79,5956.72,Safety concerns — conflict proximity,Partial Refund,Travel Agent
+CXL-0076,2025-08-24,2025-10-01,38,Active Conflict,Kempinski Hotels,Luxury,Egypt,Hurghada,South Korean,Business,8,4,Suite,597.99,4783.92,Force majeure — war clause,Full Refund,Direct Website
+CXL-0077,2025-09-23,2025-10-11,18,Active Conflict,Radisson Hotel Group,Upper-Upscale,Kuwait,Kuwait City,British,Group,10,4,Standard,1165.9,11658.97,Force majeure — war clause,No Refund,GDS
+CXL-0078,2026-02-06,2026-03-13,35,Peak Crisis,Radisson Hotel Group,Upper-Upscale,Kuwait,Kuwait City,American,Group,5,6,Presidential Suite,1545.0,7724.98,Safety concerns — conflict proximity,Partial Refund,Corporate
+CXL-0079,2025-09-16,2025-12-09,84,Active Conflict,Hyatt Hotels,Luxury/Upper-Upscale,Egypt,Cairo,Chinese,Leisure,6,3,Deluxe,1117.1,6702.62,Flight rerouting — extended journey,Voucher,Travel Agent
+CXL-0080,2025-12-05,2025-12-30,25,Active Conflict,Accor Group,Multi-Scale,UAE,Ras Al Khaimah,German,Group,2,2,Deluxe,1653.59,3307.18,Cruise ship rerouted,Voucher,Travel Agent
+CXL-0081,2025-12-24,2025-12-25,1,Active Conflict,Hilton Worldwide,Luxury/Upper-Upscale,Kuwait,Kuwait City,American,Group,12,6,Standard,483.23,5798.77,Airspace closure — flight cancelled,No Refund,GDS
+CXL-0082,2026-05-14,2026-06-18,35,Post-Ceasefire,Wyndham Hotels,Mid/Upper-Mid,Bahrain,Muharraq,South African,MICE,6,5,Presidential Suite,1739.65,10437.92,Safety concerns — conflict proximity,Full Refund,Travel Agent
+CXL-0083,2026-06-24,2026-06-25,1,Post-Ceasefire,Mandarin Oriental,Ultra-Luxury,Bahrain,Muharraq,Brazilian,Group,11,4,Presidential Suite,1303.94,14343.3,Hotel temporarily closed,Full Refund,Corporate
+CXL-0084,2026-03-20,2026-03-25,5,Peak Crisis,Mandarin Oriental,Ultra-Luxury,UAE,Sharjah,Japanese,Group,12,5,Standard,301.24,3614.82,Force majeure — war clause,Partial Refund,OTA
+CXL-0085,2025-09-03,2025-10-15,42,Active Conflict,Wyndham Hotels,Mid/Upper-Mid,Egypt,Sharm el-Sheikh,Italian,Honeymoon,13,2,Presidential Suite,304.26,3955.35,MICE event cancelled,Partial Refund,Direct Website
+CXL-0086,2025-09-07,2025-09-12,5,Active Conflict,Sofitel (Accor),Luxury,Iraq,Baghdad,British,Honeymoon,2,6,Pool Villa,1271.95,2543.9,Hotel temporarily closed,No Refund,OTA
+CXL-0087,2026-04-05,2026-05-22,47,Post-Ceasefire,Rotana Hotels,Upper-Upscale,Oman,Muscat,Brazilian,Business,2,1,Deluxe,328.24,656.49,Airspace closure — flight cancelled,Partial Refund,Travel Agent
+CXL-0088,2025-06-09,2025-08-26,78,Active Conflict,Four Seasons Hotels,Luxury,Bahrain,Manama,Australian,Honeymoon,4,5,Standard,865.16,3460.63,Safety concerns — conflict proximity,Full Refund,Direct Website
+CXL-0089,2026-03-23,2026-03-30,7,Peak Crisis,Kempinski Hotels,Luxury,Lebanon,Beirut,French,Honeymoon,2,5,Suite,1028.29,2056.58,Force majeure — war clause,Voucher,Corporate
+CXL-0090,2025-04-16,2025-05-14,28,Escalation,IHG Hotels & Resorts,Upper-Upscale,Jordan,Aqaba,Spanish,Business,12,3,Standard,1603.12,19237.43,Hotel temporarily closed,Partial Refund,GDS
+CXL-0091,2026-01-12,2026-02-04,23,Peak Crisis,Four Seasons Hotels,Luxury,Kuwait,Kuwait City,Australian,MICE,13,4,Deluxe,867.69,11280.0,Insurance non-coverage,No Refund,GDS
+CXL-0092,2026-02-02,2026-03-03,29,Peak Crisis,Mandarin Oriental,Ultra-Luxury,Lebanon,Beirut,South Korean,Group,11,2,Presidential Suite,1406.68,15473.5,Airline suspension of routes,Voucher,Corporate
+CXL-0093,2026-02-11,2026-03-16,33,Peak Crisis,Four Seasons Hotels,Luxury,Saudi Arabia,NEOM area,Brazilian,MICE,9,4,Suite,881.98,7937.86,MICE event cancelled,Partial Refund,GDS
+CXL-0094,2025-09-23,2025-12-16,84,Active Conflict,Anantara Hotels,Luxury,Saudi Arabia,Mecca,French,Honeymoon,5,4,Pool Villa,1495.49,7477.44,Corporate travel ban,Partial Refund,OTA
+CXL-0095,2026-02-12,2026-03-11,27,Peak Crisis,Kempinski Hotels,Luxury,Jordan,Aqaba,British,Business,3,2,Presidential Suite,1164.83,3494.5,MICE event cancelled,Full Refund,Corporate
+CXL-0096,2026-05-19,2026-06-05,17,Post-Ceasefire,Best Western,Mid-Scale,Iraq,Erbil,Japanese,Leisure,7,6,Standard,1793.4,12553.8,Cruise ship rerouted,Partial Refund,Direct Website
+CXL-0097,2026-01-19,2026-02-19,31,Peak Crisis,Best Western,Mid-Scale,Qatar,Al Rayyan,South African,Leisure,9,4,Deluxe,376.66,3389.96,Flight rerouting — extended journey,Partial Refund,Direct Website
+CXL-0098,2026-03-13,2026-03-21,8,Peak Crisis,Kempinski Hotels,Luxury,UAE,Ras Al Khaimah,Russian,Group,12,1,Suite,486.19,5834.3,Hotel temporarily closed,No Refund,Travel Agent
+CXL-0099,2026-01-07,2026-02-09,33,Peak Crisis,Rotana Hotels,Upper-Upscale,Oman,Salalah,South African,MICE,7,6,Presidential Suite,1470.14,10290.96,Cruise ship rerouted,Voucher,GDS
+CXL-0100,2026-02-28,2026-03-24,24,Peak Crisis,Marriott International,Luxury/Upper-Upscale,Lebanon,Beirut,Italian,Business,6,3,Presidential Suite,260.72,1564.33,Cruise ship rerouted,Voucher,Travel Agent
+CXL-0101,2025-08-05,2025-10-21,77,Active Conflict,Best Western,Mid-Scale,Kuwait,Kuwait City,Chinese,Group,4,2,Standard,920.37,3681.49,Force majeure — war clause,Voucher,GDS
+CXL-0102,2025-03-06,2025-04-07,32,Escalation,Marriott International,Luxury/Upper-Upscale,Qatar,Doha,Canadian,Honeymoon,5,2,Presidential Suite,294.84,1474.19,Flight rerouting — extended journey,No Refund,Travel Agent
+CXL-0103,2026-02-17,2026-02-25,8,Peak Crisis,Wyndham Hotels,Mid/Upper-Mid,UAE,Abu Dhabi,South Korean,Honeymoon,2,6,Suite,1097.82,2195.65,Cruise ship rerouted,Full Refund,GDS
+CXL-0104,2025-11-08,2025-11-14,6,Active Conflict,Wyndham Hotels,Mid/Upper-Mid,Bahrain,Manama,Japanese,Leisure,14,5,Suite,677.18,9480.55,Airline suspension of routes,Partial Refund,Direct Website
+CXL-0105,2026-03-06,2026-03-21,15,Peak Crisis,Four Seasons Hotels,Luxury,Jordan,Aqaba,Canadian,Honeymoon,4,2,Standard,1559.44,6237.78,Force majeure — war clause,Partial Refund,Direct Website
+CXL-0106,2025-06-25,2025-06-25,0,Active Conflict,Anantara Hotels,Luxury,Jordan,Amman,American,Group,12,5,Standard,1165.74,13988.93,Airspace closure — flight cancelled,No Refund,Direct Website
+CXL-0107,2025-01-21,2025-03-29,67,Escalation,Radisson Hotel Group,Upper-Upscale,Kuwait,Kuwait City,South African,MICE,14,6,Pool Villa,1434.54,20083.51,Insurance non-coverage,No Refund,Corporate
+CXL-0108,2026-02-12,2026-02-20,8,Peak Crisis,Four Seasons Hotels,Luxury,Egypt,Cairo,Russian,Leisure,3,3,Standard,1167.1,3501.29,Force majeure — war clause,Partial Refund,GDS
+CXL-0109,2026-06-04,2026-06-30,26,Post-Ceasefire,Accor Group,Multi-Scale,Bahrain,Manama,Australian,MICE,14,1,Standard,1185.39,16595.51,Airline suspension of routes,Full Refund,Travel Agent
+CXL-0110,2025-02-09,2025-02-26,17,Escalation,Jumeirah Group,Ultra-Luxury,Saudi Arabia,Medina,Spanish,Business,10,4,Presidential Suite,624.38,6243.76,Government travel advisory Level 4,No Refund,Travel Agent
+CXL-0111,2025-12-31,2025-12-31,0,Active Conflict,IHG Hotels & Resorts,Upper-Upscale,UAE,Sharjah,Indian,Business,2,5,Standard,358.33,716.65,Safety concerns — conflict proximity,Voucher,Travel Agent
+CXL-0112,2025-09-10,2025-09-15,5,Active Conflict,IHG Hotels & Resorts,Upper-Upscale,Qatar,Doha,Chinese,MICE,7,1,Pool Villa,1642.14,11494.99,Airspace closure — flight cancelled,Voucher,Direct Website
+CXL-0113,2025-08-23,2025-10-04,42,Active Conflict,Best Western,Mid-Scale,Oman,Muscat,Canadian,Business,8,2,Presidential Suite,1625.51,13004.07,Cruise ship rerouted,Voucher,OTA
+CXL-0114,2025-03-22,2025-04-05,14,Escalation,Anantara Hotels,Luxury,UAE,Dubai,South African,Group,6,6,Pool Villa,1545.01,9270.04,Flight rerouting — extended journey,Full Refund,Travel Agent
+CXL-0115,2026-02-10,2026-03-11,29,Peak Crisis,Hyatt Hotels,Luxury/Upper-Upscale,Saudi Arabia,Riyadh,Brazilian,Group,2,6,Presidential Suite,1012.21,2024.42,MICE event cancelled,Partial Refund,Direct Website
+CXL-0116,2026-05-17,2026-05-29,12,Post-Ceasefire,Mandarin Oriental,Ultra-Luxury,Iraq,Baghdad,Brazilian,MICE,12,2,Suite,177.55,2130.62,Hotel temporarily closed,No Refund,Corporate
+CXL-0117,2026-01-11,2026-03-05,53,Peak Crisis,Sofitel (Accor),Luxury,Oman,Salalah,French,Business,1,4,Standard,1109.77,1109.77,Hotel temporarily closed,Partial Refund,OTA
+CXL-0118,2025-02-15,2025-04-06,50,Escalation,Four Seasons Hotels,Luxury,Kuwait,Kuwait City,Canadian,MICE,9,3,Standard,1186.33,10676.99,MICE event cancelled,Full Refund,Direct Website
+CXL-0119,2026-02-08,2026-02-12,4,Peak Crisis,Four Seasons Hotels,Luxury,Saudi Arabia,Mecca,Spanish,MICE,5,5,Standard,982.3,4911.5,Airspace closure — flight cancelled,Partial Refund,Direct Website
+CXL-0120,2025-12-16,2025-12-27,11,Active Conflict,Best Western,Mid-Scale,Bahrain,Manama,Australian,MICE,4,2,Suite,160.75,642.99,Airline suspension of routes,Voucher,OTA
+CXL-0121,2024-10-03,2024-11-08,36,Pre-Tension,Mandarin Oriental,Ultra-Luxury,Saudi Arabia,Medina,Australian,Leisure,5,2,Deluxe,893.88,4469.41,Government travel advisory Level 4,Voucher,OTA
+CXL-0122,2026-02-04,2026-03-04,28,Peak Crisis,Sofitel (Accor),Luxury,UAE,Dubai,Brazilian,Honeymoon,3,3,Deluxe,1311.21,3933.63,Hotel temporarily closed,Partial Refund,Direct Website
+CXL-0123,2026-06-20,2026-06-29,9,Post-Ceasefire,Radisson Hotel Group,Upper-Upscale,Egypt,Cairo,Japanese,Leisure,11,5,Presidential Suite,767.28,8440.13,Insurance non-coverage,Voucher,GDS
+CXL-0124,2024-11-05,2024-11-11,6,Pre-Tension,IHG Hotels & Resorts,Upper-Upscale,Egypt,Sharm el-Sheikh,Spanish,Leisure,12,5,Standard,544.32,6531.8,Cruise ship rerouted,No Refund,GDS
+CXL-0125,2026-06-15,2026-06-17,2,Post-Ceasefire,Mandarin Oriental,Ultra-Luxury,Jordan,Petra,Canadian,Leisure,9,2,Presidential Suite,558.13,5023.13,MICE event cancelled,Partial Refund,Travel Agent
+CXL-0126,2025-10-06,2025-10-09,3,Active Conflict,Four Seasons Hotels,Luxury,Lebanon,Beirut,Italian,MICE,5,1,Suite,786.42,3932.08,Safety concerns — conflict proximity,No Refund,Corporate
+CXL-0127,2025-09-03,2025-11-01,59,Active Conflict,Sofitel (Accor),Luxury,UAE,Ras Al Khaimah,Indian,Group,7,3,Deluxe,161.07,1127.46,Airspace closure — flight cancelled,Voucher,Corporate
+CXL-0128,2026-05-12,2026-06-08,27,Post-Ceasefire,Radisson Hotel Group,Upper-Upscale,Qatar,Doha,German,Group,2,5,Standard,1241.7,2483.41,Safety concerns — conflict proximity,Voucher,OTA
+CXL-0129,2025-04-22,2025-05-24,32,Escalation,Marriott International,Luxury/Upper-Upscale,UAE,Dubai,British,Honeymoon,10,2,Standard,869.41,8694.09,MICE event cancelled,No Refund,Corporate
+CXL-0130,2024-10-11,2024-10-19,8,Pre-Tension,Marriott International,Luxury/Upper-Upscale,Egypt,Cairo,Australian,Group,14,2,Deluxe,1791.2,25076.73,Hotel temporarily closed,Full Refund,GDS
+CXL-0131,2026-06-25,2026-06-30,5,Post-Ceasefire,Radisson Hotel Group,Upper-Upscale,Lebanon,Beirut,Spanish,Leisure,14,4,Standard,1554.38,21761.27,Force majeure — war clause,Voucher,Direct Website
+CXL-0132,2026-03-06,2026-03-10,4,Peak Crisis,Rotana Hotels,Upper-Upscale,Saudi Arabia,Riyadh,Spanish,Honeymoon,6,4,Presidential Suite,1218.34,7310.05,Force majeure — war clause,Voucher,OTA
+CXL-0133,2026-05-28,2026-06-09,12,Post-Ceasefire,Best Western,Mid-Scale,Oman,Salalah,South Korean,Business,12,5,Deluxe,1281.65,15379.76,Airspace closure — flight cancelled,No Refund,OTA
+CXL-0134,2026-05-18,2026-06-12,25,Post-Ceasefire,Mandarin Oriental,Ultra-Luxury,Bahrain,Muharraq,Canadian,Honeymoon,5,6,Deluxe,1025.57,5127.84,Corporate travel ban,Full Refund,OTA
+CXL-0135,2026-01-14,2026-03-09,54,Peak Crisis,Accor Group,Multi-Scale,Egypt,Sharm el-Sheikh,Canadian,Group,13,6,Deluxe,1016.15,13209.99,Corporate travel ban,Full Refund,Corporate
+CXL-0136,2025-01-29,2025-04-01,62,Escalation,Jumeirah Group,Ultra-Luxury,Egypt,Hurghada,South Korean,Business,8,3,Suite,973.56,7788.46,MICE event cancelled,No Refund,Corporate
+CXL-0137,2025-10-16,2025-11-15,30,Active Conflict,Rotana Hotels,Upper-Upscale,Oman,Salalah,American,Business,10,5,Suite,924.97,9249.65,Safety concerns — conflict proximity,Full Refund,OTA
+CXL-0138,2026-01-08,2026-02-25,48,Peak Crisis,Kempinski Hotels,Luxury,Kuwait,Kuwait City,Spanish,Group,10,1,Standard,395.36,3953.61,MICE event cancelled,Full Refund,Corporate
+CXL-0139,2025-10-28,2025-11-21,24,Active Conflict,IHG Hotels & Resorts,Upper-Upscale,Bahrain,Muharraq,American,Business,11,1,Pool Villa,501.26,5513.91,Flight rerouting — extended journey,Partial Refund,OTA
+CXL-0140,2025-09-09,2025-11-15,67,Active Conflict,Wyndham Hotels,Mid/Upper-Mid,Qatar,Al Rayyan,Chinese,Business,4,2,Presidential Suite,693.55,2774.2,Safety concerns — conflict proximity,Full Refund,Direct Website
+CXL-0141,2026-02-05,2026-03-26,49,Peak Crisis,Accor Group,Multi-Scale,Lebanon,Beirut,German,Honeymoon,8,5,Deluxe,354.42,2835.35,Insurance non-coverage,Partial Refund,GDS
+CXL-0142,2026-01-16,2026-03-14,57,Peak Crisis,Mandarin Oriental,Ultra-Luxury,Bahrain,Manama,American,Group,3,2,Presidential Suite,1105.37,3316.1,Hotel temporarily closed,Voucher,GDS
+CXL-0143,2026-04-02,2026-05-03,31,Post-Ceasefire,Kempinski Hotels,Luxury,Iraq,Erbil,Spanish,Leisure,12,4,Suite,766.31,9195.73,Corporate travel ban,Voucher,Travel Agent
+CXL-0144,2026-03-14,2026-03-16,2,Peak Crisis,IHG Hotels & Resorts,Upper-Upscale,Egypt,Hurghada,French,MICE,2,2,Suite,1254.37,2508.75,Airline suspension of routes,No Refund,Direct Website
+CXL-0145,2026-03-31,2026-03-31,0,Peak Crisis,Wyndham Hotels,Mid/Upper-Mid,Saudi Arabia,NEOM area,South Korean,Business,8,3,Presidential Suite,202.24,1617.88,Safety concerns — conflict proximity,Full Refund,Corporate
+CXL-0146,2025-06-09,2025-07-03,24,Active Conflict,Four Seasons Hotels,Luxury,Jordan,Petra,Chinese,Group,14,3,Deluxe,893.67,12511.34,MICE event cancelled,No Refund,Direct Website
+CXL-0147,2025-01-26,2025-03-19,52,Escalation,Anantara Hotels,Luxury,Lebanon,Beirut,Spanish,Honeymoon,14,4,Pool Villa,1761.19,24656.7,Corporate travel ban,No Refund,OTA
+CXL-0148,2025-12-12,2025-12-20,8,Active Conflict,Accor Group,Multi-Scale,Bahrain,Muharraq,Italian,Leisure,13,1,Standard,249.73,3246.51,Force majeure — war clause,Partial Refund,Travel Agent
+CXL-0149,2026-03-17,2026-03-24,7,Peak Crisis,Wyndham Hotels,Mid/Upper-Mid,Kuwait,Kuwait City,South African,Leisure,5,5,Standard,397.92,1989.59,Hotel temporarily closed,Full Refund,Corporate
+CXL-0150,2026-03-23,2026-03-29,6,Peak Crisis,IHG Hotels & Resorts,Upper-Upscale,Iraq,Baghdad,Chinese,Group,3,6,Suite,1117.27,3351.81,Airline suspension of routes,No Refund,Corporate
+CXL-0151,2026-04-10,2026-04-22,12,Post-Ceasefire,Four Seasons Hotels,Luxury,Saudi Arabia,Mecca,Indian,Group,8,1,Suite,1560.9,12487.2,Insurance non-coverage,Full Refund,OTA
+CXL-0152,2026-02-22,2026-03-12,18,Peak Crisis,Hyatt Hotels,Luxury/Upper-Upscale,Qatar,Al Rayyan,Indian,Group,5,3,Deluxe,1649.18,8245.88,Airspace closure — flight cancelled,Partial Refund,OTA
+CXL-0153,2026-02-13,2026-03-30,45,Peak Crisis,Rotana Hotels,Upper-Upscale,Kuwait,Kuwait City,Canadian,Business,12,6,Pool Villa,429.87,5158.42,Force majeure — war clause,Full Refund,Travel Agent
+CXL-0154,2026-01-11,2026-03-08,56,Peak Crisis,IHG Hotels & Resorts,Upper-Upscale,Bahrain,Muharraq,British,Honeymoon,5,4,Suite,781.99,3909.96,Force majeure — war clause,Voucher,OTA
+CXL-0155,2026-01-07,2026-03-01,53,Peak Crisis,Anantara Hotels,Luxury,UAE,Abu Dhabi,American,Leisure,10,5,Presidential Suite,1557.83,15578.34,MICE event cancelled,No Refund,OTA
+CXL-0156,2025-08-26,2025-09-12,17,Active Conflict,Kempinski Hotels,Luxury,Saudi Arabia,Mecca,German,Leisure,13,6,Deluxe,290.92,3781.99,Safety concerns — conflict proximity,No Refund,OTA
+CXL-0157,2026-02-21,2026-02-25,4,Peak Crisis,Marriott International,Luxury/Upper-Upscale,Jordan,Petra,Canadian,Leisure,10,3,Pool Villa,869.6,8696.02,Corporate travel ban,No Refund,OTA
+CXL-0158,2025-02-20,2025-04-16,55,Escalation,Four Seasons Hotels,Luxury,Jordan,Aqaba,Chinese,Honeymoon,13,1,Standard,381.79,4963.26,Corporate travel ban,Voucher,GDS
+CXL-0159,2026-02-26,2026-03-04,6,Peak Crisis,Jumeirah Group,Ultra-Luxury,Oman,Salalah,Chinese,Business,3,5,Suite,248.25,744.75,MICE event cancelled,Partial Refund,Direct Website
+CXL-0160,2025-05-30,2025-05-30,0,Escalation,Accor Group,Multi-Scale,Saudi Arabia,NEOM area,South Korean,MICE,3,5,Pool Villa,1111.78,3335.34,Government travel advisory Level 4,No Refund,OTA
+CXL-0161,2025-12-10,2025-12-12,2,Active Conflict,Four Seasons Hotels,Luxury,Bahrain,Muharraq,South Korean,Business,12,4,Pool Villa,1637.11,19645.35,Government travel advisory Level 4,No Refund,Direct Website
+CXL-0162,2025-07-10,2025-07-10,0,Active Conflict,Sofitel (Accor),Luxury,Saudi Arabia,Jeddah,Indian,Leisure,12,1,Deluxe,328.32,3939.84,Airspace closure — flight cancelled,No Refund,GDS
+CXL-0163,2025-10-07,2025-12-11,65,Active Conflict,Best Western,Mid-Scale,Lebanon,Beirut,American,Honeymoon,6,5,Deluxe,640.54,3843.22,Flight rerouting — extended journey,Partial Refund,Corporate
+CXL-0164,2025-04-09,2025-05-08,29,Escalation,Anantara Hotels,Luxury,Oman,Muscat,Italian,Honeymoon,7,3,Standard,1728.38,12098.64,Corporate travel ban,Partial Refund,Direct Website
+CXL-0165,2026-03-13,2026-03-13,0,Peak Crisis,IHG Hotels & Resorts,Upper-Upscale,Saudi Arabia,Riyadh,German,Business,1,5,Standard,669.16,669.16,Corporate travel ban,Voucher,Corporate
+CXL-0166,2026-01-31,2026-02-18,18,Peak Crisis,Anantara Hotels,Luxury,Qatar,Al Rayyan,German,MICE,12,1,Presidential Suite,1349.99,16199.87,Safety concerns — conflict proximity,Voucher,Travel Agent
+CXL-0167,2026-03-22,2026-03-25,3,Peak Crisis,Hyatt Hotels,Luxury/Upper-Upscale,Qatar,Doha,Spanish,MICE,6,2,Deluxe,1696.53,10179.21,Airline suspension of routes,Voucher,Travel Agent
+CXL-0168,2026-02-27,2026-03-29,30,Peak Crisis,Accor Group,Multi-Scale,Jordan,Amman,Italian,Business,13,2,Pool Villa,1171.48,15229.26,Hotel temporarily closed,Voucher,Travel Agent
+CXL-0169,2026-03-02,2026-03-11,9,Peak Crisis,Four Seasons Hotels,Luxury,UAE,Ajman,German,Leisure,14,4,Standard,953.21,13344.96,Flight rerouting — extended journey,No Refund,Direct Website
+CXL-0170,2026-03-30,2026-03-30,0,Peak Crisis,Sofitel (Accor),Luxury,UAE,Abu Dhabi,Spanish,MICE,4,6,Standard,209.06,836.25,Airspace closure — flight cancelled,Voucher,Direct Website
+CXL-0171,2025-09-27,2025-10-14,17,Active Conflict,Hyatt Hotels,Luxury/Upper-Upscale,Oman,Salalah,American,Group,7,3,Pool Villa,627.41,4391.87,MICE event cancelled,Partial Refund,Corporate
+CXL-0172,2025-04-22,2025-05-06,14,Escalation,Four Seasons Hotels,Luxury,Iraq,Erbil,American,Honeymoon,3,2,Deluxe,1066.66,3199.98,Hotel temporarily closed,Partial Refund,Travel Agent
+CXL-0173,2026-03-27,2026-03-28,1,Peak Crisis,Kempinski Hotels,Luxury,Egypt,Sharm el-Sheikh,South African,Leisure,7,5,Suite,185.21,1296.5,Safety concerns — conflict proximity,Partial Refund,GDS
+CXL-0174,2026-05-29,2026-06-12,14,Post-Ceasefire,Rotana Hotels,Upper-Upscale,Saudi Arabia,Dammam,American,Leisure,10,3,Presidential Suite,1105.04,11050.42,Cruise ship rerouted,Partial Refund,OTA
+CXL-0175,2026-02-10,2026-02-25,15,Peak Crisis,Four Seasons Hotels,Luxury,Kuwait,Kuwait City,Australian,Leisure,1,3,Presidential Suite,161.28,161.28,Flight rerouting — extended journey,No Refund,OTA
+CXL-0176,2026-03-12,2026-03-21,9,Peak Crisis,Kempinski Hotels,Luxury,Iraq,Erbil,South African,Group,10,5,Deluxe,1159.73,11597.27,Corporate travel ban,Voucher,Travel Agent
+CXL-0177,2026-02-23,2026-03-03,8,Peak Crisis,Jumeirah Group,Ultra-Luxury,Saudi Arabia,Jeddah,Chinese,Leisure,1,3,Pool Villa,1654.72,1654.72,Force majeure — war clause,No Refund,GDS
+CXL-0178,2025-07-14,2025-08-03,20,Active Conflict,Wyndham Hotels,Mid/Upper-Mid,Oman,Salalah,Brazilian,Business,2,2,Standard,1498.27,2996.53,Corporate travel ban,Full Refund,GDS
+CXL-0179,2025-10-27,2025-12-18,52,Active Conflict,Hilton Worldwide,Luxury/Upper-Upscale,Bahrain,Muharraq,American,Leisure,12,6,Pool Villa,1674.34,20092.03,Insurance non-coverage,Voucher,GDS
+CXL-0180,2025-11-20,2025-12-04,14,Active Conflict,Best Western,Mid-Scale,Jordan,Amman,British,MICE,13,3,Standard,1361.32,17697.19,Force majeure — war clause,Full Refund,Travel Agent
+CXL-0181,2025-07-07,2025-07-25,18,Active Conflict,Hyatt Hotels,Luxury/Upper-Upscale,Bahrain,Muharraq,Japanese,Group,7,6,Standard,953.33,6673.28,Airline suspension of routes,Partial Refund,Direct Website
+CXL-0182,2026-03-11,2026-03-14,3,Peak Crisis,Radisson Hotel Group,Upper-Upscale,Qatar,Doha,Canadian,Honeymoon,2,5,Deluxe,1496.41,2992.83,Corporate travel ban,No Refund,Travel Agent
+CXL-0183,2026-02-10,2026-02-18,8,Peak Crisis,Anantara Hotels,Luxury,Saudi Arabia,Riyadh,South Korean,Group,3,4,Deluxe,1386.19,4158.56,Flight rerouting — extended journey,Partial Refund,OTA
+CXL-0184,2025-02-22,2025-03-24,30,Escalation,Jumeirah Group,Ultra-Luxury,Saudi Arabia,Riyadh,French,Leisure,9,4,Presidential Suite,417.26,3755.31,Corporate travel ban,No Refund,OTA
+CXL-0185,2024-09-29,2024-10-11,12,Pre-Tension,IHG Hotels & Resorts,Upper-Upscale,Lebanon,Beirut,Chinese,Leisure,12,4,Standard,641.44,7697.24,Airspace closure — flight cancelled,Partial Refund,OTA
+CXL-0186,2026-02-08,2026-02-12,4,Peak Crisis,Jumeirah Group,Ultra-Luxury,Kuwait,Kuwait City,Japanese,MICE,2,4,Presidential Suite,225.14,450.29,Government travel advisory Level 4,Voucher,Corporate
+CXL-0187,2025-09-23,2025-12-14,82,Active Conflict,Mandarin Oriental,Ultra-Luxury,Bahrain,Manama,South Korean,Group,2,3,Standard,1086.99,2173.98,Airline suspension of routes,Partial Refund,OTA
+CXL-0188,2025-11-12,2025-12-01,19,Active Conflict,IHG Hotels & Resorts,Upper-Upscale,Egypt,Hurghada,German,Leisure,12,2,Standard,656.2,7874.38,Insurance non-coverage,No Refund,OTA
+CXL-0189,2026-01-03,2026-02-09,37,Peak Crisis,Hilton Worldwide,Luxury/Upper-Upscale,Jordan,Amman,French,Leisure,1,6,Deluxe,632.29,632.29,Corporate travel ban,No Refund,GDS
+CXL-0190,2026-05-29,2026-06-17,19,Post-Ceasefire,Four Seasons Hotels,Luxury,Qatar,Doha,German,Business,8,2,Pool Villa,1279.64,10237.15,Corporate travel ban,Voucher,Travel Agent
+CXL-0191,2025-01-22,2025-03-25,62,Escalation,Four Seasons Hotels,Luxury,Jordan,Amman,Japanese,Honeymoon,9,5,Pool Villa,1620.52,14584.65,Flight rerouting — extended journey,Voucher,Travel Agent
+CXL-0192,2025-12-06,2025-12-20,14,Active Conflict,IHG Hotels & Resorts,Upper-Upscale,Oman,Muscat,American,Business,9,4,Deluxe,916.79,8251.08,MICE event cancelled,Full Refund,Corporate
+CXL-0193,2026-04-29,2026-06-07,39,Post-Ceasefire,Kempinski Hotels,Luxury,Egypt,Sharm el-Sheikh,Japanese,Group,13,2,Deluxe,218.84,2844.89,Airspace closure — flight cancelled,No Refund,GDS
+CXL-0194,2025-03-06,2025-04-15,40,Escalation,Anantara Hotels,Luxury,Oman,Salalah,Spanish,Group,9,1,Deluxe,1214.58,10931.23,Force majeure — war clause,Full Refund,Corporate
+CXL-0195,2026-03-29,2026-03-29,0,Peak Crisis,Kempinski Hotels,Luxury,Egypt,Sharm el-Sheikh,British,Business,7,3,Standard,1351.06,9457.41,Corporate travel ban,Voucher,GDS
+CXL-0196,2026-03-21,2026-03-24,3,Peak Crisis,Mandarin Oriental,Ultra-Luxury,Iraq,Baghdad,Canadian,Group,9,6,Deluxe,686.73,6180.55,Airspace closure — flight cancelled,No Refund,GDS
+CXL-0197,2026-03-18,2026-03-21,3,Peak Crisis,Radisson Hotel Group,Upper-Upscale,Bahrain,Manama,Indian,Leisure,2,6,Presidential Suite,1079.84,2159.68,Airline suspension of routes,No Refund,Travel Agent
+CXL-0198,2026-04-02,2026-04-19,17,Post-Ceasefire,Kempinski Hotels,Luxury,UAE,Ras Al Khaimah,Japanese,MICE,2,3,Deluxe,475.41,950.83,Airspace closure — flight cancelled,No Refund,GDS
+CXL-0199,2026-02-14,2026-03-07,21,Peak Crisis,Accor Group,Multi-Scale,Bahrain,Muharraq,South African,Honeymoon,5,1,Pool Villa,892.79,4463.95,Cruise ship rerouted,Voucher,Travel Agent
+CXL-0200,2025-10-07,2025-12-13,67,Active Conflict,Kempinski Hotels,Luxury,Lebanon,Beirut,Spanish,Leisure,12,6,Standard,373.45,4481.4,Airspace closure — flight cancelled,Voucher,Direct Website
+CXL-0201,2026-01-02,2026-02-06,35,Peak Crisis,Accor Group,Multi-Scale,UAE,Ajman,Spanish,Business,8,1,Suite,1778.83,14230.6,Insurance non-coverage,Full Refund,Travel Agent
+CXL-0202,2025-10-04,2025-12-11,68,Active Conflict,Hilton Worldwide,Luxury/Upper-Upscale,UAE,Sharjah,Japanese,Group,1,6,Presidential Suite,1776.19,1776.19,Flight rerouting — extended journey,Full Refund,Corporate
+CXL-0203,2025-08-09,2025-08-28,19,Active Conflict,Mandarin Oriental,Ultra-Luxury,Jordan,Amman,Australian,Leisure,5,3,Suite,1509.15,7545.74,MICE event cancelled,Voucher,Travel Agent
+CXL-0204,2025-01-05,2025-01-20,15,Escalation,Radisson Hotel Group,Upper-Upscale,Lebanon,Beirut,German,MICE,13,1,Presidential Suite,531.04,6903.46,Airspace closure — flight cancelled,No Refund,GDS
+CXL-0205,2025-12-11,2025-12-11,0,Active Conflict,Hyatt Hotels,Luxury/Upper-Upscale,Egypt,Cairo,Spanish,Honeymoon,5,4,Pool Villa,1238.02,6190.11,MICE event cancelled,Voucher,GDS
+CXL-0206,2026-03-28,2026-03-28,0,Peak Crisis,Accor Group,Multi-Scale,Bahrain,Manama,American,Group,13,2,Presidential Suite,997.15,12963.0,MICE event cancelled,Partial Refund,GDS
+CXL-0207,2025-10-25,2025-11-14,20,Active Conflict,Marriott International,Luxury/Upper-Upscale,Kuwait,Kuwait City,South African,Business,5,5,Standard,350.0,1750.0,Government travel advisory Level 4,Voucher,GDS
+CXL-0208,2025-08-03,2025-08-13,10,Active Conflict,Four Seasons Hotels,Luxury,Kuwait,Kuwait City,Spanish,Leisure,7,3,Deluxe,309.88,2169.16,Flight rerouting — extended journey,No Refund,Corporate
+CXL-0209,2025-05-02,2025-05-03,1,Escalation,Accor Group,Multi-Scale,UAE,Abu Dhabi,Italian,Business,4,4,Suite,596.84,2387.36,Insurance non-coverage,Voucher,GDS
+CXL-0210,2024-12-18,2024-12-23,5,Pre-Tension,Hyatt Hotels,Luxury/Upper-Upscale,Bahrain,Muharraq,Canadian,Business,6,1,Deluxe,1594.31,9565.86,Government travel advisory Level 4,Full Refund,GDS
+CXL-0211,2025-11-11,2025-11-15,4,Active Conflict,Sofitel (Accor),Luxury,Saudi Arabia,Dammam,Russian,Leisure,1,6,Presidential Suite,376.89,376.89,Government travel advisory Level 4,Partial Refund,Travel Agent
+CXL-0212,2026-01-27,2026-02-02,6,Peak Crisis,Sofitel (Accor),Luxury,UAE,Sharjah,Canadian,MICE,3,2,Suite,274.39,823.17,Safety concerns — conflict proximity,Voucher,Travel Agent
+CXL-0213,2026-02-01,2026-03-20,47,Peak Crisis,Jumeirah Group,Ultra-Luxury,Oman,Muscat,Spanish,Group,5,6,Standard,374.55,1872.74,Government travel advisory Level 4,Voucher,OTA
+CXL-0214,2026-05-11,2026-06-22,42,Post-Ceasefire,Accor Group,Multi-Scale,Iraq,Erbil,Italian,Leisure,12,2,Pool Villa,831.59,9979.12,Force majeure — war clause,No Refund,GDS
+CXL-0215,2025-12-13,2025-12-23,10,Active Conflict,Best Western,Mid-Scale,Lebanon,Beirut,South Korean,MICE,9,2,Standard,1337.73,12039.57,Hotel temporarily closed,Full Refund,GDS
+CXL-0216,2026-03-16,2026-03-25,9,Peak Crisis,Mandarin Oriental,Ultra-Luxury,UAE,Abu Dhabi,Japanese,MICE,4,2,Pool Villa,471.51,1886.03,Airline suspension of routes,No Refund,Corporate
+CXL-0217,2025-02-22,2025-05-18,85,Escalation,Jumeirah Group,Ultra-Luxury,Oman,Muscat,South African,Group,9,1,Suite,704.5,6340.54,Airspace closure — flight cancelled,Voucher,Corporate
+CXL-0218,2025-04-26,2025-05-09,13,Escalation,Mandarin Oriental,Ultra-Luxury,Oman,Salalah,Chinese,Business,13,3,Suite,1654.91,21513.88,Flight rerouting — extended journey,Voucher,Travel Agent
+CXL-0219,2026-02-06,2026-03-27,49,Peak Crisis,Accor Group,Multi-Scale,Kuwait,Kuwait City,Indian,Group,13,5,Suite,554.72,7211.3,Airspace closure — flight cancelled,Full Refund,Travel Agent
+CXL-0220,2024-10-17,2024-12-24,68,Pre-Tension,Best Western,Mid-Scale,Lebanon,Beirut,Italian,Group,5,5,Suite,866.74,4333.72,Corporate travel ban,Partial Refund,Travel Agent
+CXL-0221,2025-07-29,2025-10-08,71,Active Conflict,Kempinski Hotels,Luxury,Oman,Salalah,American,Business,13,4,Standard,184.15,2393.97,Airspace closure — flight cancelled,No Refund,OTA
+CXL-0222,2025-09-01,2025-10-03,32,Active Conflict,Rotana Hotels,Upper-Upscale,Oman,Muscat,Russian,Leisure,7,1,Pool Villa,302.76,2119.3,MICE event cancelled,Partial Refund,Direct Website
+CXL-0223,2026-02-02,2026-03-03,29,Peak Crisis,Rotana Hotels,Upper-Upscale,UAE,Ras Al Khaimah,Chinese,Leisure,3,4,Presidential Suite,1721.13,5163.39,Force majeure — war clause,Partial Refund,OTA
+CXL-0224,2026-01-08,2026-02-04,27,Peak Crisis,Marriott International,Luxury/Upper-Upscale,Qatar,Al Rayyan,Italian,Honeymoon,11,2,Suite,1386.71,15253.78,Airline suspension of routes,No Refund,GDS
+CXL-0225,2026-05-29,2026-06-20,22,Post-Ceasefire,Best Western,Mid-Scale,Qatar,Doha,Indian,Honeymoon,2,4,Presidential Suite,1126.03,2252.05,Force majeure — war clause,No Refund,GDS
+CXL-0226,2026-02-15,2026-03-26,39,Peak Crisis,Four Seasons Hotels,Luxury,Oman,Salalah,Italian,Business,9,1,Standard,435.95,3923.52,Flight rerouting — extended journey,No Refund,Direct Website
+CXL-0227,2025-06-28,2025-09-03,67,Active Conflict,Sofitel (Accor),Luxury,Bahrain,Manama,British,Business,3,6,Deluxe,611.77,1835.31,MICE event cancelled,Partial Refund,Travel Agent
+CXL-0228,2026-01-17,2026-03-18,60,Peak Crisis,Radisson Hotel Group,Upper-Upscale,Jordan,Amman,Spanish,MICE,7,3,Standard,1322.31,9256.18,Force majeure — war clause,Voucher,GDS
+CXL-0229,2026-01-13,2026-01-23,10,Peak Crisis,IHG Hotels & Resorts,Upper-Upscale,Qatar,Al Rayyan,British,MICE,9,1,Standard,1729.05,15561.48,Safety concerns — conflict proximity,Partial Refund,Corporate
+CXL-0230,2026-01-21,2026-01-25,4,Peak Crisis,Accor Group,Multi-Scale,Egypt,Sharm el-Sheikh,Chinese,Business,11,6,Pool Villa,708.54,7793.96,Safety concerns — conflict proximity,Voucher,Travel Agent
+CXL-0231,2026-02-04,2026-02-15,11,Peak Crisis,Wyndham Hotels,Mid/Upper-Mid,Bahrain,Manama,Spanish,Business,12,3,Presidential Suite,508.09,6097.05,Airline suspension of routes,Partial Refund,Travel Agent
+CXL-0232,2026-01-28,2026-03-07,38,Peak Crisis,Rotana Hotels,Upper-Upscale,Jordan,Petra,Chinese,Leisure,3,1,Standard,1511.04,4533.12,Airspace closure — flight cancelled,Partial Refund,Travel Agent
+CXL-0233,2024-08-13,2024-09-03,21,Pre-Tension,IHG Hotels & Resorts,Upper-Upscale,Saudi Arabia,Mecca,Italian,Honeymoon,11,6,Presidential Suite,564.78,6212.57,MICE event cancelled,Voucher,GDS
+CXL-0234,2025-10-06,2025-10-14,8,Active Conflict,Radisson Hotel Group,Upper-Upscale,Oman,Salalah,Chinese,Business,4,1,Standard,1749.83,6999.31,Hotel temporarily closed,Partial Refund,OTA
+CXL-0235,2026-01-29,2026-01-30,1,Peak Crisis,Marriott International,Luxury/Upper-Upscale,Iraq,Erbil,French,Group,8,5,Presidential Suite,495.83,3966.62,Airline suspension of routes,Full Refund,Direct Website
+CXL-0236,2026-01-25,2026-03-01,35,Peak Crisis,Accor Group,Multi-Scale,Saudi Arabia,NEOM area,Spanish,Business,9,3,Presidential Suite,235.26,2117.32,Cruise ship rerouted,No Refund,Corporate
+CXL-0237,2026-03-31,2026-03-31,0,Peak Crisis,Best Western,Mid-Scale,Lebanon,Beirut,South Korean,Leisure,9,6,Presidential Suite,180.59,1625.28,Safety concerns — conflict proximity,Partial Refund,OTA
+CXL-0238,2026-03-22,2026-03-29,7,Peak Crisis,Mandarin Oriental,Ultra-Luxury,Saudi Arabia,Jeddah,Spanish,MICE,2,5,Suite,1114.17,2228.33,Safety concerns — conflict proximity,Partial Refund,Corporate
+CXL-0239,2026-06-29,2026-06-30,1,Post-Ceasefire,Mandarin Oriental,Ultra-Luxury,Iraq,Erbil,American,MICE,1,2,Pool Villa,537.05,537.05,MICE event cancelled,Voucher,GDS
+CXL-0240,2025-04-03,2025-05-01,28,Escalation,IHG Hotels & Resorts,Upper-Upscale,Iraq,Baghdad,South African,Honeymoon,3,2,Pool Villa,172.7,518.11,Hotel temporarily closed,Full Refund,Travel Agent
+CXL-0241,2026-03-19,2026-03-23,4,Peak Crisis,Wyndham Hotels,Mid/Upper-Mid,Saudi Arabia,Medina,Italian,MICE,1,2,Standard,1725.33,1725.33,Airline suspension of routes,Full Refund,OTA
+CXL-0242,2025-11-08,2025-12-12,34,Active Conflict,Kempinski Hotels,Luxury,Jordan,Aqaba,Australian,MICE,6,5,Suite,1306.1,7836.61,Cruise ship rerouted,No Refund,OTA
+CXL-0243,2026-03-15,2026-03-18,3,Peak Crisis,Marriott International,Luxury/Upper-Upscale,Kuwait,Kuwait City,Australian,Business,5,5,Deluxe,1517.59,7587.97,Insurance non-coverage,Voucher,Corporate
+CXL-0244,2025-09-09,2025-09-25,16,Active Conflict,Jumeirah Group,Ultra-Luxury,Egypt,Cairo,South African,Leisure,7,3,Suite,322.23,2255.64,Safety concerns — conflict proximity,Full Refund,GDS
+CXL-0245,2026-01-29,2026-03-11,41,Peak Crisis,Mandarin Oriental,Ultra-Luxury,Lebanon,Beirut,Canadian,MICE,11,3,Presidential Suite,1656.95,18226.48,Safety concerns — conflict proximity,Full Refund,Travel Agent
+CXL-0246,2026-02-03,2026-03-17,42,Peak Crisis,Rotana Hotels,Upper-Upscale,Bahrain,Muharraq,South African,MICE,14,2,Standard,1566.22,21927.06,Insurance non-coverage,Voucher,Travel Agent
+CXL-0247,2025-06-09,2025-08-04,56,Active Conflict,Rotana Hotels,Upper-Upscale,Lebanon,Beirut,South African,MICE,9,6,Pool Villa,1526.02,13734.19,Corporate travel ban,Voucher,GDS
+CXL-0248,2026-01-12,2026-01-18,6,Peak Crisis,Mandarin Oriental,Ultra-Luxury,Jordan,Petra,Russian,MICE,7,4,Standard,1207.83,8454.78,Hotel temporarily closed,Voucher,Corporate
+CXL-0249,2025-10-27,2025-12-23,57,Active Conflict,IHG Hotels & Resorts,Upper-Upscale,Lebanon,Beirut,German,MICE,8,4,Pool Villa,236.44,1891.48,Airline suspension of routes,Full Refund,Travel Agent
+CXL-0250,2026-02-15,2026-03-30,43,Peak Crisis,Anantara Hotels,Luxury,Iraq,Baghdad,Australian,Honeymoon,5,2,Standard,1777.83,8889.17,Force majeure — war clause,Voucher,OTA
+CXL-0251,2025-10-02,2025-12-21,80,Active Conflict,Best Western,Mid-Scale,Iraq,Baghdad,Brazilian,Group,6,1,Suite,1472.97,8837.83,Insurance non-coverage,Partial Refund,Travel Agent
+CXL-0252,2026-06-15,2026-06-19,4,Post-Ceasefire,Kempinski Hotels,Luxury,UAE,Abu Dhabi,French,MICE,12,2,Presidential Suite,924.88,11098.53,Government travel advisory Level 4,Partial Refund,GDS
+CXL-0253,2025-10-02,2025-10-25,23,Active Conflict,Sofitel (Accor),Luxury,Saudi Arabia,Jeddah,Spanish,MICE,4,1,Presidential Suite,194.33,777.3,Cruise ship rerouted,No Refund,Corporate
+CXL-0254,2025-03-01,2025-03-19,18,Escalation,Wyndham Hotels,Mid/Upper-Mid,Kuwait,Kuwait City,British,Honeymoon,13,4,Pool Villa,778.08,10115.1,Airspace closure — flight cancelled,No Refund,Travel Agent
+CXL-0255,2026-01-28,2026-02-23,26,Peak Crisis,Four Seasons Hotels,Luxury,Iraq,Baghdad,South African,MICE,4,1,Standard,483.6,1934.42,Airline suspension of routes,Voucher,GDS
+CXL-0256,2026-01-17,2026-03-23,65,Peak Crisis,Four Seasons Hotels,Luxury,Oman,Salalah,Canadian,Honeymoon,9,3,Presidential Suite,1167.28,10505.51,Flight rerouting — extended journey,Full Refund,Travel Agent
+CXL-0257,2026-02-24,2026-02-26,2,Peak Crisis,Accor Group,Multi-Scale,UAE,Ras Al Khaimah,Spanish,Business,7,1,Deluxe,1522.08,10654.58,Flight rerouting — extended journey,Full Refund,OTA
+CXL-0258,2026-03-17,2026-03-18,1,Peak Crisis,Anantara Hotels,Luxury,Egypt,Hurghada,Australian,Leisure,5,2,Presidential Suite,789.41,3947.03,Airline suspension of routes,Voucher,Travel Agent
+CXL-0259,2025-01-21,2025-03-07,45,Escalation,Radisson Hotel Group,Upper-Upscale,Egypt,Sharm el-Sheikh,Italian,MICE,13,3,Suite,1523.54,19806.03,Corporate travel ban,Voucher,Travel Agent
+CXL-0260,2025-02-08,2025-03-17,37,Escalation,Accor Group,Multi-Scale,Lebanon,Beirut,Japanese,MICE,2,3,Deluxe,431.06,862.12,Cruise ship rerouted,Full Refund,GDS
+CXL-0261,2025-05-09,2025-05-25,16,Escalation,Best Western,Mid-Scale,Egypt,Cairo,South Korean,Business,4,6,Standard,576.09,2304.38,Cruise ship rerouted,Partial Refund,Direct Website
+CXL-0262,2025-07-27,2025-10-08,73,Active Conflict,Hilton Worldwide,Luxury/Upper-Upscale,Iraq,Baghdad,British,Group,6,5,Standard,1446.04,8676.26,Airline suspension of routes,Partial Refund,OTA
+CXL-0263,2025-08-09,2025-10-13,65,Active Conflict,Best Western,Mid-Scale,Kuwait,Kuwait City,Brazilian,MICE,8,4,Standard,267.27,2138.14,Flight rerouting — extended journey,Voucher,Travel Agent
+CXL-0264,2024-06-10,2024-08-02,53,Pre-Tension,Rotana Hotels,Upper-Upscale,Lebanon,Beirut,Brazilian,MICE,2,1,Suite,813.08,1626.17,Flight rerouting — extended journey,Voucher,Travel Agent
+CXL-0265,2026-06-25,2026-06-28,3,Post-Ceasefire,Sofitel (Accor),Luxury,Jordan,Aqaba,Russian,MICE,8,6,Presidential Suite,864.49,6915.91,Insurance non-coverage,Full Refund,Corporate
+CXL-0266,2025-06-03,2025-08-06,64,Active Conflict,Rotana Hotels,Upper-Upscale,Oman,Muscat,Chinese,Business,7,3,Standard,693.73,4856.1,Flight rerouting — extended journey,No Refund,OTA
+CXL-0267,2025-11-07,2025-12-11,34,Active Conflict,Jumeirah Group,Ultra-Luxury,Lebanon,Beirut,Australian,Business,3,5,Presidential Suite,1071.21,3213.64,Corporate travel ban,No Refund,GDS
+CXL-0268,2025-01-02,2025-02-26,55,Escalation,Four Seasons Hotels,Luxury,Saudi Arabia,NEOM area,Russian,Honeymoon,9,3,Deluxe,1292.36,11631.27,MICE event cancelled,Voucher,Direct Website
+CXL-0269,2026-02-25,2026-03-14,17,Peak Crisis,Best Western,Mid-Scale,UAE,Dubai,Russian,Group,13,4,Deluxe,380.49,4946.41,MICE event cancelled,Full Refund,Direct Website
+CXL-0270,2025-01-23,2025-02-24,32,Escalation,IHG Hotels & Resorts,Upper-Upscale,Bahrain,Manama,South Korean,Business,2,5,Deluxe,1298.89,2597.78,Airspace closure — flight cancelled,Full Refund,OTA
+CXL-0271,2026-06-05,2026-06-13,8,Post-Ceasefire,Wyndham Hotels,Mid/Upper-Mid,UAE,Ras Al Khaimah,Chinese,Honeymoon,5,5,Presidential Suite,1027.43,5137.16,Corporate travel ban,No Refund,Direct Website
+CXL-0272,2026-02-15,2026-02-24,9,Peak Crisis,Hilton Worldwide,Luxury/Upper-Upscale,Iraq,Erbil,Russian,Honeymoon,6,1,Presidential Suite,606.19,3637.15,Force majeure — war clause,No Refund,Travel Agent
+CXL-0273,2026-03-08,2026-03-14,6,Peak Crisis,Anantara Hotels,Luxury,Oman,Muscat,French,Honeymoon,8,5,Presidential Suite,1601.5,12811.97,Government travel advisory Level 4,Partial Refund,GDS
+CXL-0274,2025-09-10,2025-11-03,54,Active Conflict,Anantara Hotels,Luxury,Iraq,Erbil,Spanish,Honeymoon,4,6,Pool Villa,1778.56,7114.25,Corporate travel ban,Voucher,GDS
+CXL-0275,2025-05-17,2025-05-31,14,Escalation,Kempinski Hotels,Luxury,Qatar,Al Rayyan,South Korean,Honeymoon,7,1,Pool Villa,1292.63,9048.38,Government travel advisory Level 4,Voucher,Direct Website
+CXL-0276,2025-09-17,2025-12-03,77,Active Conflict,Best Western,Mid-Scale,Kuwait,Kuwait City,Russian,Honeymoon,12,2,Suite,1126.65,13519.84,Safety concerns — conflict proximity,Voucher,Corporate
+CXL-0277,2026-01-15,2026-03-18,62,Peak Crisis,IHG Hotels & Resorts,Upper-Upscale,Iraq,Erbil,Brazilian,Honeymoon,7,4,Standard,1081.57,7571.01,Government travel advisory Level 4,Full Refund,Direct Website
+CXL-0278,2026-03-05,2026-03-31,26,Peak Crisis,Mandarin Oriental,Ultra-Luxury,Saudi Arabia,Dammam,South Korean,MICE,1,6,Deluxe,1447.93,1447.93,Airspace closure — flight cancelled,Partial Refund,Corporate
+CXL-0279,2026-05-29,2026-06-08,10,Post-Ceasefire,Hilton Worldwide,Luxury/Upper-Upscale,Saudi Arabia,Jeddah,South Korean,Leisure,13,3,Suite,1200.95,15612.4,Corporate travel ban,Voucher,Direct Website
+CXL-0280,2026-02-04,2026-03-02,26,Peak Crisis,Marriott International,Luxury/Upper-Upscale,Qatar,Doha,Russian,Business,2,4,Deluxe,705.36,1410.72,MICE event cancelled,Partial Refund,GDS
+CXL-0281,2024-03-20,2024-04-25,36,Pre-Tension,Best Western,Mid-Scale,Bahrain,Manama,Japanese,Leisure,3,3,Suite,546.96,1640.88,Airspace closure — flight cancelled,Partial Refund,OTA
+CXL-0282,2026-02-10,2026-03-02,20,Peak Crisis,Hilton Worldwide,Luxury/Upper-Upscale,Iraq,Erbil,British,Business,11,3,Suite,1625.05,17875.53,Hotel temporarily closed,No Refund,Direct Website
+CXL-0283,2026-02-14,2026-02-17,3,Peak Crisis,Wyndham Hotels,Mid/Upper-Mid,Egypt,Hurghada,Italian,Business,1,6,Deluxe,1140.41,1140.41,Hotel temporarily closed,Full Refund,Corporate
+CXL-0284,2026-03-14,2026-03-28,14,Peak Crisis,Accor Group,Multi-Scale,UAE,Abu Dhabi,Spanish,Business,5,1,Standard,648.76,3243.81,Airspace closure — flight cancelled,Full Refund,Travel Agent
+CXL-0285,2026-03-27,2026-03-31,4,Peak Crisis,Kempinski Hotels,Luxury,Qatar,Doha,South African,Business,6,6,Presidential Suite,1287.61,7725.65,Flight rerouting — extended journey,Partial Refund,Travel Agent
+CXL-0286,2025-08-27,2025-09-28,32,Active Conflict,Hilton Worldwide,Luxury/Upper-Upscale,Egypt,Hurghada,Australian,Business,8,2,Suite,882.29,7058.33,Corporate travel ban,No Refund,Corporate
+CXL-0287,2026-05-07,2026-06-05,29,Post-Ceasefire,Anantara Hotels,Luxury,Saudi Arabia,Jeddah,Chinese,Business,7,4,Pool Villa,856.18,5993.29,Airline suspension of routes,Partial Refund,Corporate
+CXL-0288,2025-09-27,2025-12-26,90,Active Conflict,Hilton Worldwide,Luxury/Upper-Upscale,UAE,Abu Dhabi,American,Business,6,1,Suite,1690.67,10144.0,Airline suspension of routes,Partial Refund,Corporate
+CXL-0289,2025-02-10,2025-04-11,60,Escalation,Jumeirah Group,Ultra-Luxury,Iraq,Erbil,Australian,Business,3,3,Deluxe,1490.39,4471.16,MICE event cancelled,Full Refund,Direct Website
+CXL-0290,2026-03-19,2026-03-19,0,Peak Crisis,Anantara Hotels,Luxury,Bahrain,Muharraq,German,Group,2,6,Suite,1140.85,2281.7,MICE event cancelled,Partial Refund,Corporate
+CXL-0291,2026-02-16,2026-03-08,20,Peak Crisis,Anantara Hotels,Luxury,Egypt,Sharm el-Sheikh,American,Leisure,2,3,Presidential Suite,1473.37,2946.74,Cruise ship rerouted,Partial Refund,Direct Website
+CXL-0292,2024-12-27,2024-12-30,3,Pre-Tension,Marriott International,Luxury/Upper-Upscale,Oman,Muscat,Indian,Business,1,6,Presidential Suite,605.58,605.58,Force majeure — war clause,Partial Refund,Travel Agent
+CXL-0293,2025-08-04,2025-08-30,26,Active Conflict,Rotana Hotels,Upper-Upscale,Qatar,Al Rayyan,Italian,Leisure,2,3,Standard,393.13,786.27,Flight rerouting — extended journey,Partial Refund,Direct Website
+CXL-0294,2026-05-27,2026-06-21,25,Post-Ceasefire,Wyndham Hotels,Mid/Upper-Mid,Lebanon,Beirut,Brazilian,Honeymoon,3,4,Presidential Suite,989.21,2967.63,Hotel temporarily closed,No Refund,Travel Agent
+CXL-0295,2025-02-25,2025-03-21,24,Escalation,IHG Hotels & Resorts,Upper-Upscale,Lebanon,Beirut,British,Leisure,1,1,Presidential Suite,221.94,221.94,Airline suspension of routes,Partial Refund,GDS
+CXL-0296,2026-02-24,2026-03-26,30,Peak Crisis,Accor Group,Multi-Scale,Egypt,Hurghada,American,Group,7,3,Deluxe,1060.02,7420.16,Hotel temporarily closed,No Refund,Travel Agent
+CXL-0297,2026-01-31,2026-02-18,18,Peak Crisis,Kempinski Hotels,Luxury,Kuwait,Kuwait City,Indian,Group,4,2,Suite,453.29,1813.15,Cruise ship rerouted,Voucher,Corporate
+CXL-0298,2025-12-28,2025-12-28,0,Active Conflict,Four Seasons Hotels,Luxury,Oman,Salalah,American,Group,7,6,Suite,481.15,3368.04,Flight rerouting — extended journey,Partial Refund,GDS
+CXL-0299,2026-04-09,2026-06-13,65,Post-Ceasefire,Mandarin Oriental,Ultra-Luxury,Oman,Muscat,Canadian,Group,12,4,Suite,803.21,9638.49,MICE event cancelled,No Refund,Corporate
+CXL-0300,2025-12-20,2025-12-26,6,Active Conflict,Mandarin Oriental,Ultra-Luxury,UAE,Dubai,Australian,MICE,11,2,Deluxe,1313.81,14451.9,Safety concerns — conflict proximity,Voucher,GDS
+CXL-0301,2026-03-23,2026-03-25,2,Peak Crisis,Rotana Hotels,Upper-Upscale,Saudi Arabia,Riyadh,German,MICE,3,2,Standard,1751.76,5255.27,Force majeure — war clause,No Refund,GDS
+CXL-0302,2025-10-29,2025-12-15,47,Active Conflict,Kempinski Hotels,Luxury,Bahrain,Muharraq,Russian,Leisure,3,2,Suite,949.71,2849.13,Government travel advisory Level 4,No Refund,Direct Website
+CXL-0303,2026-05-10,2026-05-23,13,Post-Ceasefire,Rotana Hotels,Upper-Upscale,UAE,Abu Dhabi,American,Business,14,4,Presidential Suite,226.29,3168.11,Safety concerns — conflict proximity,Partial Refund,Corporate
+CXL-0304,2026-01-16,2026-01-18,2,Peak Crisis,Wyndham Hotels,Mid/Upper-Mid,Iraq,Baghdad,Canadian,Business,11,2,Pool Villa,663.81,7301.86,Safety concerns — conflict proximity,Partial Refund,Corporate
+CXL-0305,2026-01-05,2026-01-16,11,Peak Crisis,Anantara Hotels,Luxury,Kuwait,Kuwait City,Australian,Group,3,5,Pool Villa,579.49,1738.48,Corporate travel ban,Partial Refund,Corporate
+CXL-0306,2025-05-20,2025-05-27,7,Escalation,Kempinski Hotels,Luxury,Lebanon,Beirut,Russian,Group,11,3,Pool Villa,1390.02,15290.17,Airspace closure — flight cancelled,Full Refund,Travel Agent
+CXL-0307,2026-02-09,2026-02-28,19,Peak Crisis,Best Western,Mid-Scale,Jordan,Aqaba,Japanese,Business,7,5,Presidential Suite,659.2,4614.42,Cruise ship rerouted,Full Refund,Corporate
+CXL-0308,2026-01-27,2026-03-20,52,Peak Crisis,Anantara Hotels,Luxury,Lebanon,Beirut,Italian,Leisure,11,6,Pool Villa,737.37,8111.06,Corporate travel ban,No Refund,Corporate
+CXL-0309,2025-04-20,2025-04-30,10,Escalation,Mandarin Oriental,Ultra-Luxury,Iraq,Erbil,Spanish,Business,3,4,Deluxe,777.53,2332.6,Safety concerns — conflict proximity,No Refund,Travel Agent
+CXL-0310,2026-01-21,2026-03-24,62,Peak Crisis,Four Seasons Hotels,Luxury,Bahrain,Muharraq,Brazilian,Honeymoon,14,4,Deluxe,1670.99,23393.86,Flight rerouting — extended journey,Full Refund,GDS
+CXL-0311,2025-07-20,2025-10-14,86,Active Conflict,Kempinski Hotels,Luxury,Bahrain,Muharraq,American,Leisure,5,4,Suite,836.71,4183.55,Government travel advisory Level 4,No Refund,Corporate
+CXL-0312,2026-02-19,2026-02-24,5,Peak Crisis,Best Western,Mid-Scale,Lebanon,Beirut,Japanese,Honeymoon,14,5,Presidential Suite,803.16,11244.26,Hotel temporarily closed,Voucher,Corporate
+CXL-0313,2026-05-05,2026-05-21,16,Post-Ceasefire,Anantara Hotels,Luxury,Iraq,Erbil,Spanish,Honeymoon,1,2,Suite,1272.3,1272.3,Government travel advisory Level 4,Voucher,Corporate
+CXL-0314,2026-02-23,2026-02-28,5,Peak Crisis,Accor Group,Multi-Scale,Bahrain,Muharraq,French,Business,1,5,Standard,1758.78,1758.78,Hotel temporarily closed,Partial Refund,Corporate
+CXL-0315,2024-07-21,2024-10-03,74,Pre-Tension,Radisson Hotel Group,Upper-Upscale,Bahrain,Muharraq,German,Business,7,5,Presidential Suite,262.39,1836.75,Flight rerouting — extended journey,Partial Refund,Corporate
+CXL-0316,2026-01-01,2026-01-12,11,Peak Crisis,Anantara Hotels,Luxury,Qatar,Doha,French,Leisure,13,1,Pool Villa,276.69,3596.91,Corporate travel ban,Partial Refund,OTA
+CXL-0317,2024-03-19,2024-04-18,30,Pre-Tension,Wyndham Hotels,Mid/Upper-Mid,Iraq,Baghdad,French,Business,3,2,Presidential Suite,270.77,812.32,Cruise ship rerouted,Partial Refund,OTA
+CXL-0318,2025-06-02,2025-08-16,75,Active Conflict,Hilton Worldwide,Luxury/Upper-Upscale,Lebanon,Beirut,French,Leisure,3,4,Pool Villa,225.08,675.23,MICE event cancelled,Voucher,Travel Agent
+CXL-0319,2025-01-29,2025-02-21,23,Escalation,Rotana Hotels,Upper-Upscale,Iraq,Erbil,Spanish,Group,1,2,Presidential Suite,311.18,311.18,Cruise ship rerouted,No Refund,Travel Agent
+CXL-0320,2026-06-29,2026-06-29,0,Post-Ceasefire,Four Seasons Hotels,Luxury,UAE,Dubai,Spanish,Leisure,2,6,Presidential Suite,1110.03,2220.05,Insurance non-coverage,No Refund,Direct Website
+CXL-0321,2026-01-23,2026-03-01,37,Peak Crisis,Accor Group,Multi-Scale,Kuwait,Kuwait City,Australian,Leisure,4,5,Suite,1650.96,6603.83,Government travel advisory Level 4,No Refund,GDS
+CXL-0322,2026-02-08,2026-03-07,27,Peak Crisis,Hilton Worldwide,Luxury/Upper-Upscale,Iraq,Baghdad,Italian,Honeymoon,8,6,Presidential Suite,246.66,1973.29,Airspace closure — flight cancelled,Partial Refund,Travel Agent
+CXL-0323,2025-02-17,2025-02-21,4,Escalation,Marriott International,Luxury/Upper-Upscale,Kuwait,Kuwait City,Italian,Honeymoon,10,2,Standard,1233.7,12337.01,Hotel temporarily closed,Partial Refund,GDS
+CXL-0324,2026-03-14,2026-03-17,3,Peak Crisis,Hyatt Hotels,Luxury/Upper-Upscale,Qatar,Doha,British,Leisure,2,4,Suite,1249.01,2498.02,MICE event cancelled,Partial Refund,Direct Website
+CXL-0325,2025-06-20,2025-08-28,69,Active Conflict,Kempinski Hotels,Luxury,Bahrain,Manama,Australian,Group,12,3,Deluxe,458.39,5500.66,Corporate travel ban,Partial Refund,OTA
+CXL-0326,2026-04-12,2026-05-10,28,Post-Ceasefire,Best Western,Mid-Scale,Saudi Arabia,Riyadh,Indian,Business,8,5,Pool Villa,721.43,5771.46,Airline suspension of routes,Partial Refund,Travel Agent
+CXL-0327,2026-01-04,2026-01-16,12,Peak Crisis,Radisson Hotel Group,Upper-Upscale,Saudi Arabia,Medina,Russian,Group,9,1,Pool Villa,336.35,3027.16,Insurance non-coverage,Partial Refund,Corporate
+CXL-0328,2024-06-12,2024-06-24,12,Pre-Tension,Jumeirah Group,Ultra-Luxury,Oman,Muscat,Russian,Group,7,3,Deluxe,1394.12,9758.84,Airspace closure — flight cancelled,Partial Refund,Direct Website
+CXL-0329,2024-10-20,2024-11-27,38,Pre-Tension,Kempinski Hotels,Luxury,Saudi Arabia,Medina,Brazilian,Leisure,13,3,Suite,494.38,6426.95,Cruise ship rerouted,Full Refund,GDS
+CXL-0330,2026-01-10,2026-03-28,77,Peak Crisis,Mandarin Oriental,Ultra-Luxury,Lebanon,Beirut,British,Group,2,1,Suite,1246.83,2493.65,Corporate travel ban,Full Refund,Corporate
+CXL-0331,2025-08-21,2025-09-10,20,Active Conflict,Best Western,Mid-Scale,Lebanon,Beirut,Spanish,Group,8,4,Pool Villa,252.77,2022.16,Force majeure — war clause,Voucher,Travel Agent
+CXL-0332,2026-01-07,2026-01-07,0,Peak Crisis,Marriott International,Luxury/Upper-Upscale,Lebanon,Beirut,Canadian,MICE,11,4,Standard,797.96,8777.57,Corporate travel ban,Partial Refund,GDS
+CXL-0333,2025-06-02,2025-06-12,10,Active Conflict,Radisson Hotel Group,Upper-Upscale,Egypt,Cairo,Australian,Business,3,4,Deluxe,1208.05,3624.14,Hotel temporarily closed,Partial Refund,Corporate
+CXL-0334,2024-12-19,2024-12-27,8,Pre-Tension,Marriott International,Luxury/Upper-Upscale,Bahrain,Manama,German,Leisure,6,1,Deluxe,298.48,1790.91,Force majeure — war clause,Full Refund,Travel Agent
+CXL-0335,2026-05-20,2026-06-23,34,Post-Ceasefire,Anantara Hotels,Luxury,UAE,Dubai,British,Business,10,5,Suite,215.24,2152.41,Airspace closure — flight cancelled,Voucher,GDS
+CXL-0336,2025-05-01,2025-05-21,20,Escalation,Mandarin Oriental,Ultra-Luxury,Kuwait,Kuwait City,British,Group,2,6,Suite,296.38,592.76,Hotel temporarily closed,No Refund,Travel Agent
+CXL-0337,2026-03-07,2026-03-24,17,Peak Crisis,Kempinski Hotels,Luxury,Jordan,Amman,Spanish,MICE,11,1,Standard,419.82,4618.03,Flight rerouting — extended journey,Full Refund,GDS
+CXL-0338,2026-03-11,2026-03-13,2,Peak Crisis,Rotana Hotels,Upper-Upscale,Bahrain,Manama,Spanish,MICE,1,1,Suite,314.67,314.67,Insurance non-coverage,Voucher,Travel Agent
+CXL-0339,2025-09-15,2025-09-24,9,Active Conflict,Hyatt Hotels,Luxury/Upper-Upscale,Iraq,Erbil,British,Leisure,5,5,Presidential Suite,808.52,4042.62,Airspace closure — flight cancelled,Partial Refund,OTA
+CXL-0340,2025-08-18,2025-09-29,42,Active Conflict,Sofitel (Accor),Luxury,Saudi Arabia,Medina,German,Business,8,1,Pool Villa,362.74,2901.96,Airspace closure — flight cancelled,No Refund,GDS
+CXL-0341,2026-05-10,2026-06-07,28,Post-Ceasefire,Radisson Hotel Group,Upper-Upscale,Lebanon,Beirut,Brazilian,Business,8,6,Deluxe,374.38,2995.0,Airspace closure — flight cancelled,No Refund,Corporate
+CXL-0342,2026-01-24,2026-02-27,34,Peak Crisis,Mandarin Oriental,Ultra-Luxury,Lebanon,Beirut,Australian,Business,4,3,Presidential Suite,1319.44,5277.77,Safety concerns — conflict proximity,Partial Refund,Direct Website
+CXL-0343,2026-02-13,2026-03-29,44,Peak Crisis,Kempinski Hotels,Luxury,Egypt,Sharm el-Sheikh,Indian,Leisure,1,2,Pool Villa,1305.05,1305.05,Airline suspension of routes,Voucher,Travel Agent
+CXL-0344,2025-05-16,2025-05-25,9,Escalation,Jumeirah Group,Ultra-Luxury,Jordan,Aqaba,Australian,Business,5,3,Pool Villa,373.27,1866.35,Hotel temporarily closed,Partial Refund,GDS
+CXL-0345,2026-02-20,2026-03-14,22,Peak Crisis,Rotana Hotels,Upper-Upscale,Qatar,Doha,Russian,Group,2,5,Presidential Suite,1359.52,2719.04,Safety concerns — conflict proximity,Partial Refund,Travel Agent
+CXL-0346,2025-07-28,2025-08-27,30,Active Conflict,Best Western,Mid-Scale,Kuwait,Kuwait City,American,Group,11,2,Presidential Suite,243.26,2675.85,Airline suspension of routes,Partial Refund,GDS
+CXL-0347,2026-01-15,2026-02-17,33,Peak Crisis,Wyndham Hotels,Mid/Upper-Mid,Qatar,Doha,South African,MICE,7,6,Deluxe,473.8,3316.63,Insurance non-coverage,Partial Refund,Travel Agent
+CXL-0348,2025-05-16,2025-05-29,13,Escalation,IHG Hotels & Resorts,Upper-Upscale,Qatar,Doha,Indian,MICE,6,4,Suite,203.05,1218.33,Corporate travel ban,Full Refund,GDS
+CXL-0349,2025-08-14,2025-09-01,18,Active Conflict,Hilton Worldwide,Luxury/Upper-Upscale,Saudi Arabia,Riyadh,South Korean,MICE,8,3,Suite,587.48,4699.82,MICE event cancelled,No Refund,Travel Agent
+CXL-0350,2026-01-22,2026-02-01,10,Peak Crisis,Hyatt Hotels,Luxury/Upper-Upscale,Lebanon,Beirut,Russian,Business,14,6,Pool Villa,1417.65,19847.16,Government travel advisory Level 4,No Refund,OTA
+CXL-0351,2025-01-29,2025-02-13,15,Escalation,Mandarin Oriental,Ultra-Luxury,Jordan,Aqaba,South African,MICE,8,6,Presidential Suite,1157.24,9257.95,Force majeure — war clause,Partial Refund,Corporate
+CXL-0352,2026-03-06,2026-03-20,14,Peak Crisis,Radisson Hotel Group,Upper-Upscale,Qatar,Al Rayyan,Canadian,Honeymoon,12,2,Pool Villa,683.29,8199.53,Hotel temporarily closed,Voucher,GDS
+CXL-0353,2026-03-14,2026-03-17,3,Peak Crisis,Sofitel (Accor),Luxury,Oman,Muscat,Spanish,Leisure,1,1,Suite,916.78,916.78,Corporate travel ban,Full Refund,Corporate
+CXL-0354,2025-08-11,2025-10-11,61,Active Conflict,Anantara Hotels,Luxury,Iraq,Baghdad,Australian,Honeymoon,11,2,Deluxe,230.38,2534.21,Force majeure — war clause,No Refund,Direct Website
+CXL-0355,2026-04-04,2026-06-07,64,Post-Ceasefire,Accor Group,Multi-Scale,Saudi Arabia,Jeddah,French,Group,7,3,Pool Villa,1641.75,11492.23,Cruise ship rerouted,Voucher,Direct Website
+CXL-0356,2025-12-08,2025-12-09,1,Active Conflict,Kempinski Hotels,Luxury,Saudi Arabia,Mecca,Italian,Honeymoon,7,1,Presidential Suite,852.53,5967.69,Government travel advisory Level 4,Full Refund,Travel Agent
+CXL-0357,2026-03-18,2026-03-28,10,Peak Crisis,Four Seasons Hotels,Luxury,Jordan,Amman,South African,Business,8,3,Standard,1151.77,9214.19,Hotel temporarily closed,Voucher,Corporate
+CXL-0358,2026-06-20,2026-06-20,0,Post-Ceasefire,Marriott International,Luxury/Upper-Upscale,Jordan,Aqaba,Indian,Group,7,1,Standard,1551.68,10861.77,Corporate travel ban,Full Refund,OTA
+CXL-0359,2025-02-12,2025-03-24,40,Escalation,Four Seasons Hotels,Luxury,UAE,Abu Dhabi,British,MICE,4,1,Standard,835.27,3341.08,Safety concerns — conflict proximity,Voucher,Direct Website
+CXL-0360,2026-03-21,2026-03-29,8,Peak Crisis,IHG Hotels & Resorts,Upper-Upscale,Jordan,Petra,German,Leisure,11,2,Pool Villa,336.15,3697.68,Insurance non-coverage,Full Refund,GDS
+CXL-0361,2026-03-20,2026-03-28,8,Peak Crisis,Wyndham Hotels,Mid/Upper-Mid,Kuwait,Kuwait City,Spanish,Group,1,4,Pool Villa,1170.49,1170.49,MICE event cancelled,Voucher,Corporate
+CXL-0362,2026-01-21,2026-01-25,4,Peak Crisis,Accor Group,Multi-Scale,UAE,Dubai,German,MICE,2,3,Presidential Suite,1532.94,3065.89,Airspace closure — flight cancelled,Voucher,Direct Website
+CXL-0363,2026-01-22,2026-02-22,31,Peak Crisis,Hilton Worldwide,Luxury/Upper-Upscale,Lebanon,Beirut,German,Honeymoon,12,3,Suite,1105.05,13260.54,MICE event cancelled,No Refund,Travel Agent
+CXL-0364,2026-06-24,2026-06-27,3,Post-Ceasefire,Anantara Hotels,Luxury,Jordan,Amman,South Korean,Honeymoon,13,4,Deluxe,1308.84,17014.93,MICE event cancelled,Partial Refund,OTA
+CXL-0365,2025-10-06,2025-12-06,61,Active Conflict,Kempinski Hotels,Luxury,Iraq,Erbil,Brazilian,Business,14,5,Presidential Suite,1208.17,16914.32,Flight rerouting — extended journey,Voucher,OTA
+CXL-0366,2025-12-02,2025-12-22,20,Active Conflict,Wyndham Hotels,Mid/Upper-Mid,Saudi Arabia,Riyadh,Italian,Honeymoon,10,2,Standard,1148.65,11486.53,Corporate travel ban,Full Refund,GDS
+CXL-0367,2026-01-30,2026-03-07,36,Peak Crisis,Wyndham Hotels,Mid/Upper-Mid,UAE,Abu Dhabi,Brazilian,Business,13,4,Pool Villa,1374.42,17867.5,Corporate travel ban,Voucher,Corporate
+CXL-0368,2026-02-19,2026-03-18,27,Peak Crisis,Best Western,Mid-Scale,UAE,Ajman,Australian,Group,4,3,Standard,656.97,2627.88,Flight rerouting — extended journey,No Refund,OTA
+CXL-0369,2026-01-12,2026-01-19,7,Peak Crisis,Accor Group,Multi-Scale,Saudi Arabia,Dammam,German,Group,3,4,Suite,422.57,1267.71,Cruise ship rerouted,No Refund,OTA
+CXL-0370,2026-01-17,2026-02-21,35,Peak Crisis,Marriott International,Luxury/Upper-Upscale,Oman,Salalah,South Korean,Business,9,3,Suite,1771.4,15942.61,Insurance non-coverage,No Refund,Direct Website
+CXL-0371,2025-12-23,2025-12-27,4,Active Conflict,Mandarin Oriental,Ultra-Luxury,Bahrain,Muharraq,Chinese,Leisure,8,6,Presidential Suite,1709.6,13676.82,Insurance non-coverage,No Refund,GDS
+CXL-0372,2025-07-28,2025-09-28,62,Active Conflict,Four Seasons Hotels,Luxury,Kuwait,Kuwait City,German,Business,12,2,Suite,694.93,8339.11,Hotel temporarily closed,No Refund,Travel Agent
+CXL-0373,2025-10-30,2025-12-23,54,Active Conflict,Kempinski Hotels,Luxury,UAE,Dubai,Brazilian,Business,8,3,Presidential Suite,1425.22,11401.73,MICE event cancelled,Partial Refund,Corporate
+CXL-0374,2025-11-23,2025-12-20,27,Active Conflict,IHG Hotels & Resorts,Upper-Upscale,Oman,Muscat,Indian,Honeymoon,13,5,Pool Villa,805.72,10474.41,MICE event cancelled,Full Refund,Direct Website
+CXL-0375,2025-02-27,2025-05-23,85,Escalation,Accor Group,Multi-Scale,Lebanon,Beirut,Japanese,MICE,1,4,Standard,151.52,151.52,Corporate travel ban,Full Refund,Direct Website
+CXL-0376,2025-09-15,2025-11-26,72,Active Conflict,Anantara Hotels,Luxury,Oman,Salalah,Japanese,MICE,6,2,Standard,1531.31,9187.85,Airline suspension of routes,Voucher,Travel Agent
+CXL-0377,2026-02-12,2026-02-22,10,Peak Crisis,Best Western,Mid-Scale,Iraq,Erbil,Russian,Business,2,3,Standard,365.89,731.78,Force majeure — war clause,Full Refund,Corporate
+CXL-0378,2025-06-06,2025-07-26,50,Active Conflict,Accor Group,Multi-Scale,Bahrain,Manama,South Korean,Group,7,1,Pool Villa,263.76,1846.35,Flight rerouting — extended journey,Partial Refund,Travel Agent
+CXL-0379,2025-02-15,2025-05-09,83,Escalation,Rotana Hotels,Upper-Upscale,Jordan,Aqaba,Italian,Honeymoon,14,2,Standard,1237.37,17323.17,Force majeure — war clause,Full Refund,Corporate
+CXL-0380,2025-01-22,2025-03-12,49,Escalation,IHG Hotels & Resorts,Upper-Upscale,UAE,Abu Dhabi,French,Leisure,14,6,Pool Villa,1475.57,20657.97,Corporate travel ban,No Refund,GDS
+CXL-0381,2025-03-19,2025-04-19,31,Escalation,Mandarin Oriental,Ultra-Luxury,Jordan,Petra,German,Leisure,14,4,Pool Villa,239.47,3352.52,Airline suspension of routes,Full Refund,Direct Website
+CXL-0382,2025-10-20,2025-12-28,69,Active Conflict,Kempinski Hotels,Luxury,UAE,Abu Dhabi,South African,Group,2,1,Presidential Suite,1107.58,2215.16,Insurance non-coverage,Voucher,Travel Agent
+CXL-0383,2026-02-28,2026-03-15,15,Peak Crisis,Mandarin Oriental,Ultra-Luxury,Jordan,Aqaba,Chinese,MICE,8,4,Suite,663.4,5307.21,MICE event cancelled,Full Refund,Direct Website
+CXL-0384,2025-10-08,2025-10-22,14,Active Conflict,Mandarin Oriental,Ultra-Luxury,Iraq,Erbil,Chinese,Leisure,14,6,Standard,562.7,7877.73,Airspace closure — flight cancelled,Partial Refund,Travel Agent
+CXL-0385,2026-03-15,2026-03-25,10,Peak Crisis,IHG Hotels & Resorts,Upper-Upscale,Oman,Muscat,Italian,Business,14,1,Deluxe,1036.64,14512.93,Airline suspension of routes,Partial Refund,OTA
+CXL-0386,2025-11-21,2025-11-25,4,Active Conflict,Wyndham Hotels,Mid/Upper-Mid,Kuwait,Kuwait City,German,Group,12,1,Suite,916.44,10997.3,Airspace closure — flight cancelled,Voucher,Direct Website
+CXL-0387,2026-02-24,2026-02-24,0,Peak Crisis,Accor Group,Multi-Scale,Jordan,Aqaba,American,MICE,12,1,Suite,677.71,8132.56,Hotel temporarily closed,Voucher,Travel Agent
+CXL-0388,2025-04-18,2025-05-06,18,Escalation,Four Seasons Hotels,Luxury,Lebanon,Beirut,Italian,Honeymoon,5,6,Presidential Suite,374.09,1870.43,Airline suspension of routes,Full Refund,Direct Website
+CXL-0389,2026-01-07,2026-03-03,55,Peak Crisis,Sofitel (Accor),Luxury,Iraq,Erbil,Canadian,Leisure,8,2,Deluxe,719.05,5752.37,Airline suspension of routes,No Refund,Corporate
+CXL-0390,2026-02-28,2026-03-29,29,Peak Crisis,Wyndham Hotels,Mid/Upper-Mid,Saudi Arabia,Jeddah,Japanese,Honeymoon,9,2,Pool Villa,1036.07,9324.64,Government travel advisory Level 4,No Refund,Corporate
+CXL-0391,2025-06-22,2025-08-10,49,Active Conflict,Four Seasons Hotels,Luxury,Oman,Muscat,Chinese,Group,12,6,Suite,1113.56,13362.74,Force majeure — war clause,Voucher,GDS
+CXL-0392,2026-01-19,2026-02-18,30,Peak Crisis,Marriott International,Luxury/Upper-Upscale,Iraq,Baghdad,German,MICE,5,1,Deluxe,1748.08,8740.41,Hotel temporarily closed,Voucher,Travel Agent
+CXL-0393,2026-02-12,2026-02-28,16,Peak Crisis,Mandarin Oriental,Ultra-Luxury,Egypt,Cairo,Spanish,Group,2,5,Pool Villa,1120.07,2240.14,Cruise ship rerouted,No Refund,OTA
+CXL-0394,2025-03-19,2025-05-06,48,Escalation,Four Seasons Hotels,Luxury,Egypt,Cairo,Russian,Group,10,6,Deluxe,1393.15,13931.5,Cruise ship rerouted,No Refund,OTA
+CXL-0395,2026-03-06,2026-03-28,22,Peak Crisis,Mandarin Oriental,Ultra-Luxury,UAE,Dubai,Australian,Group,12,3,Standard,1248.95,14987.42,Cruise ship rerouted,Voucher,Direct Website
+CXL-0396,2025-09-17,2025-09-22,5,Active Conflict,Best Western,Mid-Scale,Bahrain,Manama,British,Group,2,2,Pool Villa,1244.98,2489.95,MICE event cancelled,Partial Refund,OTA
+CXL-0397,2025-08-08,2025-09-21,44,Active Conflict,Sofitel (Accor),Luxury,Egypt,Hurghada,Canadian,Business,3,4,Pool Villa,719.76,2159.29,Cruise ship rerouted,Partial Refund,Direct Website
+CXL-0398,2026-02-21,2026-03-24,31,Peak Crisis,Anantara Hotels,Luxury,Lebanon,Beirut,Russian,Group,2,3,Pool Villa,1272.09,2544.18,Hotel temporarily closed,Full Refund,GDS
+CXL-0399,2025-09-28,2025-10-12,14,Active Conflict,Sofitel (Accor),Luxury,Oman,Salalah,Brazilian,Group,7,6,Presidential Suite,837.06,5859.42,Hotel temporarily closed,No Refund,OTA
+CXL-0400,2026-02-23,2026-03-10,15,Peak Crisis,Best Western,Mid-Scale,Jordan,Aqaba,South African,MICE,11,1,Suite,713.7,7850.68,Government travel advisory Level 4,Voucher,OTA
+CXL-0401,2026-01-10,2026-02-07,28,Peak Crisis,Best Western,Mid-Scale,Bahrain,Muharraq,South African,MICE,4,2,Standard,367.3,1469.21,Hotel temporarily closed,Partial Refund,GDS
+CXL-0402,2025-09-12,2025-09-20,8,Active Conflict,Hilton Worldwide,Luxury/Upper-Upscale,Iraq,Baghdad,South African,Honeymoon,3,6,Presidential Suite,1319.89,3959.66,Force majeure — war clause,Voucher,Corporate
+CXL-0403,2026-02-08,2026-03-13,33,Peak Crisis,Mandarin Oriental,Ultra-Luxury,Egypt,Sharm el-Sheikh,Russian,Business,14,5,Standard,1185.33,16594.63,MICE event cancelled,Voucher,Direct Website
+CXL-0404,2025-02-11,2025-04-15,63,Escalation,Four Seasons Hotels,Luxury,UAE,Sharjah,Brazilian,Business,4,4,Deluxe,1091.66,4366.64,Corporate travel ban,Full Refund,Travel Agent
+CXL-0405,2025-07-31,2025-07-31,0,Active Conflict,Radisson Hotel Group,Upper-Upscale,Saudi Arabia,Jeddah,Italian,Leisure,5,4,Standard,1117.58,5587.88,Flight rerouting — extended journey,Voucher,Direct Website
+CXL-0406,2026-06-17,2026-06-18,1,Post-Ceasefire,IHG Hotels & Resorts,Upper-Upscale,Iraq,Erbil,Brazilian,Honeymoon,8,6,Suite,1225.12,9800.93,Cruise ship rerouted,No Refund,Direct Website
+CXL-0407,2026-01-01,2026-02-23,53,Peak Crisis,IHG Hotels & Resorts,Upper-Upscale,Qatar,Doha,Russian,Group,1,4,Deluxe,461.13,461.13,Cruise ship rerouted,No Refund,Travel Agent
+CXL-0408,2025-09-09,2025-11-27,79,Active Conflict,Mandarin Oriental,Ultra-Luxury,Kuwait,Kuwait City,American,Leisure,10,5,Suite,660.49,6604.9,Airspace closure — flight cancelled,Full Refund,Direct Website
+CXL-0409,2026-01-21,2026-03-22,60,Peak Crisis,IHG Hotels & Resorts,Upper-Upscale,Bahrain,Manama,Japanese,Business,13,2,Presidential Suite,659.09,8568.14,Force majeure — war clause,Voucher,Direct Website
+CXL-0410,2026-02-11,2026-02-19,8,Peak Crisis,Sofitel (Accor),Luxury,Bahrain,Muharraq,Japanese,Business,7,1,Standard,341.29,2389.06,Airline suspension of routes,Full Refund,Travel Agent
+CXL-0411,2026-03-28,2026-03-30,2,Peak Crisis,Hyatt Hotels,Luxury/Upper-Upscale,Lebanon,Beirut,French,Leisure,11,1,Standard,1077.6,11853.6,Government travel advisory Level 4,Partial Refund,Corporate
+CXL-0412,2026-03-01,2026-03-16,15,Peak Crisis,Mandarin Oriental,Ultra-Luxury,Iraq,Baghdad,Russian,Group,4,6,Deluxe,795.66,3182.63,Insurance non-coverage,No Refund,Travel Agent
+CXL-0413,2025-01-19,2025-04-12,83,Escalation,Best Western,Mid-Scale,Bahrain,Manama,Indian,MICE,14,3,Standard,1109.5,15532.94,Airline suspension of routes,Partial Refund,Travel Agent
+CXL-0414,2026-01-23,2026-02-27,35,Peak Crisis,Radisson Hotel Group,Upper-Upscale,UAE,Abu Dhabi,Italian,Business,6,2,Standard,719.31,4315.86,Cruise ship rerouted,Partial Refund,Direct Website
+CXL-0415,2026-02-13,2026-02-21,8,Peak Crisis,Wyndham Hotels,Mid/Upper-Mid,Egypt,Sharm el-Sheikh,South Korean,MICE,7,4,Standard,1520.27,10641.9,Airline suspension of routes,Full Refund,GDS
+CXL-0416,2025-09-25,2025-12-05,71,Active Conflict,Mandarin Oriental,Ultra-Luxury,UAE,Ras Al Khaimah,Spanish,Group,2,2,Suite,1306.66,2613.33,Safety concerns — conflict proximity,No Refund,Corporate
+CXL-0417,2025-10-17,2025-10-26,9,Active Conflict,Hyatt Hotels,Luxury/Upper-Upscale,Lebanon,Beirut,Japanese,Business,13,6,Pool Villa,1139.0,14806.99,Hotel temporarily closed,Partial Refund,OTA
+CXL-0418,2026-04-10,2026-05-21,41,Post-Ceasefire,Rotana Hotels,Upper-Upscale,Saudi Arabia,Mecca,Indian,Honeymoon,8,4,Standard,969.48,7755.8,Airline suspension of routes,Voucher,OTA
+CXL-0419,2025-08-30,2025-10-25,56,Active Conflict,Hyatt Hotels,Luxury/Upper-Upscale,Jordan,Aqaba,Italian,Group,9,2,Standard,1732.03,15588.28,MICE event cancelled,No Refund,GDS
+CXL-0420,2026-03-14,2026-03-14,0,Peak Crisis,Jumeirah Group,Ultra-Luxury,Qatar,Al Rayyan,Indian,Business,14,3,Suite,1107.66,15507.27,Corporate travel ban,Voucher,Travel Agent
+CXL-0421,2026-02-22,2026-03-19,25,Peak Crisis,Anantara Hotels,Luxury,Saudi Arabia,NEOM area,Russian,MICE,4,5,Suite,1034.49,4137.97,Airspace closure — flight cancelled,Full Refund,Corporate
+CXL-0422,2026-03-31,2026-03-31,0,Peak Crisis,Four Seasons Hotels,Luxury,Iraq,Erbil,French,Business,7,6,Deluxe,881.94,6173.58,MICE event cancelled,No Refund,Corporate
+CXL-0423,2026-02-19,2026-02-19,0,Peak Crisis,Mandarin Oriental,Ultra-Luxury,Saudi Arabia,Dammam,Australian,Leisure,5,1,Presidential Suite,404.49,2022.43,Insurance non-coverage,Full Refund,Corporate
+CXL-0424,2026-03-27,2026-03-28,1,Peak Crisis,Four Seasons Hotels,Luxury,Jordan,Amman,South African,Group,9,4,Deluxe,1032.6,9293.38,Airspace closure — flight cancelled,Partial Refund,OTA
+CXL-0425,2026-04-29,2026-06-27,59,Post-Ceasefire,Hilton Worldwide,Luxury/Upper-Upscale,Bahrain,Manama,South Korean,Honeymoon,3,1,Presidential Suite,1401.28,4203.84,Insurance non-coverage,Voucher,Travel Agent
+CXL-0426,2026-05-27,2026-06-06,10,Post-Ceasefire,Kempinski Hotels,Luxury,UAE,Abu Dhabi,Indian,Honeymoon,8,2,Deluxe,637.14,5097.14,Insurance non-coverage,No Refund,Travel Agent
+CXL-0427,2026-02-28,2026-03-06,6,Peak Crisis,Wyndham Hotels,Mid/Upper-Mid,Iraq,Baghdad,Australian,MICE,7,6,Deluxe,1564.24,10949.68,MICE event cancelled,Voucher,Travel Agent
+CXL-0428,2025-08-21,2025-09-23,33,Active Conflict,IHG Hotels & Resorts,Upper-Upscale,Jordan,Aqaba,Indian,Honeymoon,10,2,Standard,275.23,2752.26,MICE event cancelled,No Refund,GDS
+CXL-0429,2026-06-10,2026-06-30,20,Post-Ceasefire,Four Seasons Hotels,Luxury,Lebanon,Beirut,Spanish,MICE,4,6,Pool Villa,1240.78,4963.14,Hotel temporarily closed,Voucher,Corporate
+CXL-0430,2025-02-11,2025-03-25,42,Escalation,Hyatt Hotels,Luxury/Upper-Upscale,Bahrain,Manama,South African,Group,10,2,Deluxe,847.0,8469.96,Corporate travel ban,No Refund,Travel Agent
+CXL-0431,2026-01-07,2026-01-11,4,Peak Crisis,Jumeirah Group,Ultra-Luxury,Iraq,Erbil,American,MICE,1,3,Presidential Suite,173.31,173.31,Government travel advisory Level 4,No Refund,Corporate
+CXL-0432,2026-01-02,2026-01-07,5,Peak Crisis,Anantara Hotels,Luxury,UAE,Dubai,South African,Leisure,10,6,Presidential Suite,241.73,2417.33,Airline suspension of routes,No Refund,GDS
+CXL-0433,2025-12-12,2025-12-19,7,Active Conflict,Accor Group,Multi-Scale,Kuwait,Kuwait City,French,Honeymoon,4,4,Standard,1392.84,5571.37,Hotel temporarily closed,No Refund,OTA
+CXL-0434,2025-10-26,2025-12-05,40,Active Conflict,Radisson Hotel Group,Upper-Upscale,Iraq,Erbil,American,Business,2,5,Standard,511.41,1022.82,Corporate travel ban,No Refund,Direct Website
+CXL-0435,2026-06-09,2026-06-29,20,Post-Ceasefire,Wyndham Hotels,Mid/Upper-Mid,Kuwait,Kuwait City,South African,Honeymoon,11,1,Standard,320.88,3529.7,Airline suspension of routes,No Refund,Corporate
+CXL-0436,2025-12-09,2025-12-09,0,Active Conflict,Hyatt Hotels,Luxury/Upper-Upscale,Iraq,Erbil,Brazilian,Business,11,5,Suite,616.43,6780.77,MICE event cancelled,Voucher,Corporate
+CXL-0437,2026-03-17,2026-03-17,0,Peak Crisis,IHG Hotels & Resorts,Upper-Upscale,Bahrain,Manama,Canadian,Group,9,5,Presidential Suite,1321.02,11889.2,Insurance non-coverage,Voucher,OTA
+CXL-0438,2026-05-20,2026-05-30,10,Post-Ceasefire,Anantara Hotels,Luxury,Lebanon,Beirut,Spanish,MICE,14,1,Standard,1625.5,22757.03,Cruise ship rerouted,Partial Refund,Corporate
+CXL-0439,2026-03-02,2026-03-19,17,Peak Crisis,Accor Group,Multi-Scale,Bahrain,Muharraq,French,Leisure,5,6,Pool Villa,1304.54,6522.7,Government travel advisory Level 4,Partial Refund,Travel Agent
+CXL-0440,2025-11-24,2025-12-30,36,Active Conflict,Four Seasons Hotels,Luxury,Bahrain,Muharraq,Russian,Business,1,2,Pool Villa,784.97,784.97,Safety concerns — conflict proximity,Full Refund,Travel Agent
+CXL-0441,2025-03-21,2025-05-31,71,Escalation,Wyndham Hotels,Mid/Upper-Mid,Saudi Arabia,Dammam,Brazilian,Leisure,2,2,Standard,518.38,1036.77,Flight rerouting — extended journey,Voucher,OTA
+CXL-0442,2025-12-30,2025-12-31,1,Active Conflict,Radisson Hotel Group,Upper-Upscale,Jordan,Aqaba,Italian,Honeymoon,2,5,Pool Villa,375.38,750.76,MICE event cancelled,Partial Refund,OTA
+CXL-0443,2026-01-08,2026-01-27,19,Peak Crisis,Wyndham Hotels,Mid/Upper-Mid,Lebanon,Beirut,Chinese,Honeymoon,13,4,Pool Villa,595.2,7737.55,Safety concerns — conflict proximity,Partial Refund,OTA
+CXL-0444,2025-06-04,2025-07-22,48,Active Conflict,Jumeirah Group,Ultra-Luxury,Egypt,Hurghada,Canadian,Business,8,1,Suite,1131.15,9049.16,MICE event cancelled,Voucher,Direct Website
+CXL-0445,2025-08-27,2025-10-25,59,Active Conflict,Anantara Hotels,Luxury,Saudi Arabia,Jeddah,Russian,Group,7,3,Suite,1100.71,7704.97,Corporate travel ban,Full Refund,GDS
+CXL-0446,2025-09-24,2025-11-08,45,Active Conflict,Radisson Hotel Group,Upper-Upscale,Qatar,Al Rayyan,Indian,Honeymoon,12,3,Pool Villa,1754.73,21056.73,Safety concerns — conflict proximity,No Refund,Direct Website
+CXL-0447,2026-03-25,2026-03-31,6,Peak Crisis,Four Seasons Hotels,Luxury,Iraq,Baghdad,American,Leisure,2,5,Standard,752.75,1505.49,Corporate travel ban,Voucher,Travel Agent
+CXL-0448,2026-04-30,2026-06-03,34,Post-Ceasefire,Wyndham Hotels,Mid/Upper-Mid,Oman,Muscat,Russian,Group,8,4,Standard,623.3,4986.41,Cruise ship rerouted,No Refund,OTA
+CXL-0449,2026-03-10,2026-03-10,0,Peak Crisis,Jumeirah Group,Ultra-Luxury,Iraq,Baghdad,Brazilian,Honeymoon,12,2,Deluxe,1787.61,21451.29,Force majeure — war clause,Voucher,GDS
+CXL-0450,2026-01-23,2026-03-26,62,Peak Crisis,Marriott International,Luxury/Upper-Upscale,Oman,Salalah,Italian,MICE,4,6,Presidential Suite,643.67,2574.69,Airline suspension of routes,Partial Refund,Direct Website
+CXL-0451,2026-03-15,2026-03-19,4,Peak Crisis,Rotana Hotels,Upper-Upscale,Bahrain,Muharraq,Chinese,Group,6,2,Standard,610.18,3661.07,Corporate travel ban,Full Refund,GDS
+CXL-0452,2026-02-13,2026-03-31,46,Peak Crisis,Kempinski Hotels,Luxury,Egypt,Sharm el-Sheikh,Japanese,Leisure,3,4,Deluxe,467.42,1402.27,Safety concerns — conflict proximity,No Refund,Direct Website
+CXL-0453,2025-09-05,2025-09-19,14,Active Conflict,Mandarin Oriental,Ultra-Luxury,Lebanon,Beirut,Japanese,Group,3,6,Pool Villa,1683.96,5051.88,Flight rerouting — extended journey,No Refund,Travel Agent
+CXL-0454,2025-12-24,2025-12-26,2,Active Conflict,Marriott International,Luxury/Upper-Upscale,Bahrain,Muharraq,Canadian,MICE,4,6,Presidential Suite,1068.24,4272.96,Hotel temporarily closed,Voucher,Direct Website
+CXL-0455,2025-06-25,2025-09-06,73,Active Conflict,Mandarin Oriental,Ultra-Luxury,Bahrain,Manama,South Korean,MICE,10,2,Standard,445.11,4451.08,Safety concerns — conflict proximity,Partial Refund,Direct Website
+CXL-0456,2026-03-31,2026-03-31,0,Peak Crisis,Wyndham Hotels,Mid/Upper-Mid,Jordan,Amman,Brazilian,Leisure,4,6,Pool Villa,1106.61,4426.45,Corporate travel ban,No Refund,GDS
+CXL-0457,2025-06-17,2025-08-25,69,Active Conflict,Wyndham Hotels,Mid/Upper-Mid,Iraq,Baghdad,South African,Business,9,5,Standard,1614.9,14534.08,Force majeure — war clause,Full Refund,OTA
+CXL-0458,2026-05-15,2026-06-09,25,Post-Ceasefire,IHG Hotels & Resorts,Upper-Upscale,Bahrain,Manama,Australian,Business,3,5,Suite,398.59,1195.78,Cruise ship rerouted,No Refund,Corporate
+CXL-0459,2024-08-16,2024-10-29,74,Pre-Tension,Wyndham Hotels,Mid/Upper-Mid,Lebanon,Beirut,Spanish,Honeymoon,8,1,Pool Villa,853.94,6831.55,Insurance non-coverage,Partial Refund,OTA
+CXL-0460,2025-04-04,2025-04-07,3,Escalation,Hyatt Hotels,Luxury/Upper-Upscale,Lebanon,Beirut,Japanese,MICE,14,5,Presidential Suite,822.84,11519.79,Force majeure — war clause,Partial Refund,GDS
+CXL-0461,2025-06-13,2025-09-08,87,Active Conflict,IHG Hotels & Resorts,Upper-Upscale,Lebanon,Beirut,Chinese,Honeymoon,1,5,Presidential Suite,430.5,430.5,Safety concerns — conflict proximity,No Refund,Travel Agent
+CXL-0462,2025-11-18,2025-12-01,13,Active Conflict,Hilton Worldwide,Luxury/Upper-Upscale,Jordan,Amman,Brazilian,Honeymoon,7,2,Suite,552.74,3869.2,Insurance non-coverage,Full Refund,OTA
+CXL-0463,2025-12-08,2025-12-20,12,Active Conflict,IHG Hotels & Resorts,Upper-Upscale,Qatar,Doha,Indian,Honeymoon,4,6,Standard,1619.41,6477.63,Hotel temporarily closed,No Refund,Travel Agent
+CXL-0464,2025-06-21,2025-09-09,80,Active Conflict,Mandarin Oriental,Ultra-Luxury,Saudi Arabia,Medina,Italian,Business,4,3,Standard,1557.84,6231.34,Airline suspension of routes,Full Refund,OTA
+CXL-0465,2026-03-30,2026-03-30,0,Peak Crisis,IHG Hotels & Resorts,Upper-Upscale,Jordan,Aqaba,Spanish,Business,13,4,Pool Villa,862.03,11206.38,Force majeure — war clause,No Refund,GDS
+CXL-0466,2025-08-14,2025-08-14,0,Active Conflict,Radisson Hotel Group,Upper-Upscale,Lebanon,Beirut,South African,Honeymoon,10,4,Suite,401.23,4012.35,Government travel advisory Level 4,Full Refund,OTA
+CXL-0467,2026-03-09,2026-03-22,13,Peak Crisis,Best Western,Mid-Scale,Saudi Arabia,Riyadh,Italian,Leisure,12,4,Deluxe,1383.3,16599.65,Insurance non-coverage,Full Refund,GDS
+CXL-0468,2025-06-05,2025-08-25,81,Active Conflict,Accor Group,Multi-Scale,Saudi Arabia,Medina,Japanese,Honeymoon,10,6,Standard,703.58,7035.76,Insurance non-coverage,Partial Refund,GDS
+CXL-0469,2025-06-07,2025-07-30,53,Active Conflict,Radisson Hotel Group,Upper-Upscale,Jordan,Petra,Australian,Business,9,5,Deluxe,625.02,5625.17,Government travel advisory Level 4,Voucher,GDS
+CXL-0470,2025-02-15,2025-05-13,87,Escalation,Anantara Hotels,Luxury,Kuwait,Kuwait City,Chinese,MICE,4,5,Suite,1094.19,4376.75,Airspace closure — flight cancelled,Voucher,OTA
+CXL-0471,2026-03-24,2026-03-24,0,Peak Crisis,Rotana Hotels,Upper-Upscale,Egypt,Cairo,French,Leisure,9,3,Suite,189.56,1706.08,Cruise ship rerouted,Full Refund,Travel Agent
+CXL-0472,2025-06-25,2025-07-27,32,Active Conflict,IHG Hotels & Resorts,Upper-Upscale,Lebanon,Beirut,American,Group,4,6,Standard,478.68,1914.72,Force majeure — war clause,Voucher,Corporate
+CXL-0473,2026-02-15,2026-03-03,16,Peak Crisis,Rotana Hotels,Upper-Upscale,Saudi Arabia,Jeddah,Indian,Honeymoon,13,5,Deluxe,1296.75,16857.76,Safety concerns — conflict proximity,Full Refund,Direct Website
+CXL-0474,2026-03-27,2026-03-31,4,Peak Crisis,Mandarin Oriental,Ultra-Luxury,Saudi Arabia,Mecca,South Korean,MICE,11,2,Deluxe,228.47,2513.19,Government travel advisory Level 4,Voucher,Travel Agent
+CXL-0475,2026-01-16,2026-02-05,20,Peak Crisis,Best Western,Mid-Scale,Jordan,Petra,Brazilian,MICE,3,3,Standard,1742.02,5226.06,Flight rerouting — extended journey,Partial Refund,Direct Website
+CXL-0476,2025-11-01,2025-11-05,4,Active Conflict,IHG Hotels & Resorts,Upper-Upscale,Bahrain,Muharraq,Italian,Business,1,2,Suite,1500.25,1500.25,Airspace closure — flight cancelled,Partial Refund,Travel Agent
+CXL-0477,2025-09-10,2025-09-29,19,Active Conflict,Jumeirah Group,Ultra-Luxury,Bahrain,Manama,South African,Business,5,3,Presidential Suite,228.0,1140.0,Cruise ship rerouted,Voucher,GDS
+CXL-0478,2025-10-31,2025-12-07,37,Active Conflict,Hyatt Hotels,Luxury/Upper-Upscale,Iraq,Erbil,Chinese,Honeymoon,14,6,Standard,1077.53,15085.49,Airline suspension of routes,Partial Refund,OTA
+CXL-0479,2026-03-23,2026-03-27,4,Peak Crisis,Jumeirah Group,Ultra-Luxury,Saudi Arabia,Mecca,German,Honeymoon,7,6,Standard,555.56,3888.9,Hotel temporarily closed,No Refund,OTA
+CXL-0480,2025-06-15,2025-07-19,34,Active Conflict,Kempinski Hotels,Luxury,Lebanon,Beirut,Brazilian,MICE,2,3,Standard,1114.51,2229.02,Hotel temporarily closed,Partial Refund,Direct Website
+CXL-0481,2025-07-14,2025-07-27,13,Active Conflict,Marriott International,Luxury/Upper-Upscale,UAE,Ajman,Australian,Honeymoon,8,3,Deluxe,626.75,5014.01,MICE event cancelled,Full Refund,OTA
+CXL-0482,2025-10-03,2025-11-04,32,Active Conflict,IHG Hotels & Resorts,Upper-Upscale,UAE,Dubai,Japanese,Honeymoon,12,3,Suite,738.3,8859.59,Hotel temporarily closed,Voucher,GDS
+CXL-0483,2026-03-04,2026-03-28,24,Peak Crisis,Accor Group,Multi-Scale,Bahrain,Muharraq,Russian,Group,13,3,Standard,1138.14,14795.88,Flight rerouting — extended journey,Partial Refund,Direct Website
+CXL-0484,2025-12-04,2025-12-05,1,Active Conflict,Accor Group,Multi-Scale,Kuwait,Kuwait City,American,Honeymoon,2,2,Standard,161.02,322.04,Airline suspension of routes,Voucher,Corporate
+CXL-0485,2026-03-06,2026-03-26,20,Peak Crisis,Sofitel (Accor),Luxury,Qatar,Al Rayyan,Canadian,Honeymoon,14,2,Suite,1454.35,20360.94,Airspace closure — flight cancelled,No Refund,Direct Website
+CXL-0486,2026-02-16,2026-02-23,7,Peak Crisis,Hyatt Hotels,Luxury/Upper-Upscale,Jordan,Amman,Chinese,Group,7,5,Presidential Suite,1427.36,9991.49,Corporate travel ban,Partial Refund,Travel Agent
+CXL-0487,2025-08-14,2025-10-24,71,Active Conflict,Kempinski Hotels,Luxury,UAE,Abu Dhabi,Russian,Group,12,1,Pool Villa,855.13,10261.6,Government travel advisory Level 4,Voucher,GDS
+CXL-0488,2025-05-22,2025-05-23,1,Escalation,IHG Hotels & Resorts,Upper-Upscale,Bahrain,Muharraq,German,Honeymoon,8,4,Pool Villa,1612.57,12900.56,Airline suspension of routes,Partial Refund,OTA
+CXL-0489,2025-11-07,2025-12-25,48,Active Conflict,Rotana Hotels,Upper-Upscale,Oman,Muscat,South African,Group,6,2,Standard,1371.82,8230.92,Hotel temporarily closed,No Refund,Direct Website
+CXL-0490,2025-05-24,2025-05-31,7,Escalation,Four Seasons Hotels,Luxury,Bahrain,Muharraq,Indian,Honeymoon,14,1,Pool Villa,303.44,4248.12,Flight rerouting — extended journey,No Refund,Travel Agent
+CXL-0491,2026-05-05,2026-06-20,46,Post-Ceasefire,Kempinski Hotels,Luxury,Egypt,Cairo,Australian,Leisure,14,6,Suite,891.72,12484.1,MICE event cancelled,Full Refund,Corporate
+CXL-0492,2026-05-29,2026-06-02,4,Post-Ceasefire,Wyndham Hotels,Mid/Upper-Mid,Iraq,Erbil,Chinese,Honeymoon,14,4,Presidential Suite,1761.49,24660.9,Flight rerouting — extended journey,Partial Refund,Corporate
+CXL-0493,2025-12-17,2025-12-31,14,Active Conflict,Mandarin Oriental,Ultra-Luxury,UAE,Abu Dhabi,Australian,Business,11,3,Presidential Suite,185.04,2035.45,Hotel temporarily closed,Full Refund,OTA
+CXL-0494,2026-01-03,2026-02-09,37,Peak Crisis,Kempinski Hotels,Luxury,Saudi Arabia,NEOM area,Canadian,MICE,8,3,Deluxe,858.37,6866.95,Airspace closure — flight cancelled,Voucher,Direct Website
+CXL-0495,2026-03-29,2026-03-31,2,Peak Crisis,Kempinski Hotels,Luxury,Lebanon,Beirut,Russian,Honeymoon,8,1,Pool Villa,1267.76,10142.08,Government travel advisory Level 4,Voucher,GDS
+CXL-0496,2026-01-24,2026-02-22,29,Peak Crisis,Accor Group,Multi-Scale,Jordan,Amman,Indian,Honeymoon,13,1,Suite,345.88,4496.43,Flight rerouting — extended journey,Voucher,Travel Agent
+CXL-0497,2026-04-15,2026-05-03,18,Post-Ceasefire,Mandarin Oriental,Ultra-Luxury,Jordan,Aqaba,Brazilian,Leisure,8,6,Pool Villa,413.69,3309.53,Safety concerns — conflict proximity,Full Refund,Direct Website
+CXL-0498,2026-03-13,2026-03-30,17,Peak Crisis,Anantara Hotels,Luxury,Lebanon,Beirut,Canadian,Honeymoon,11,2,Standard,576.12,6337.32,MICE event cancelled,Voucher,OTA
+CXL-0499,2026-02-07,2026-02-13,6,Peak Crisis,Anantara Hotels,Luxury,Oman,Salalah,French,Leisure,6,2,Suite,917.58,5505.47,Airline suspension of routes,Voucher,Travel Agent
+CXL-0500,2025-10-14,2025-11-24,41,Active Conflict,Radisson Hotel Group,Upper-Upscale,Oman,Salalah,Russian,Honeymoon,1,4,Suite,1505.61,1505.61,Force majeure — war clause,Full Refund,GDS
+CXL-0501,2026-01-01,2026-01-01,0,Peak Crisis,Marriott International,Luxury/Upper-Upscale,UAE,Sharjah,British,Business,13,4,Deluxe,759.83,9877.74,Government travel advisory Level 4,Full Refund,Travel Agent
+CXL-0502,2025-12-16,2025-12-17,1,Active Conflict,Radisson Hotel Group,Upper-Upscale,Egypt,Sharm el-Sheikh,Italian,Business,3,5,Deluxe,828.35,2485.06,Hotel temporarily closed,No Refund,GDS
+CXL-0503,2025-02-22,2025-03-28,34,Escalation,Rotana Hotels,Upper-Upscale,Kuwait,Kuwait City,South African,MICE,14,6,Standard,1138.69,15941.7,Cruise ship rerouted,Voucher,Direct Website
+CXL-0504,2026-02-22,2026-03-14,20,Peak Crisis,Four Seasons Hotels,Luxury,Kuwait,Kuwait City,Australian,Honeymoon,6,5,Deluxe,1637.2,9823.23,Cruise ship rerouted,Voucher,OTA
+CXL-0505,2026-06-29,2026-06-30,1,Post-Ceasefire,Wyndham Hotels,Mid/Upper-Mid,Bahrain,Manama,Spanish,Group,11,6,Presidential Suite,1123.65,12360.15,Flight rerouting — extended journey,Full Refund,Corporate
+CXL-0506,2025-11-30,2025-12-25,25,Active Conflict,Radisson Hotel Group,Upper-Upscale,UAE,Dubai,Indian,Leisure,5,2,Deluxe,1306.06,6530.28,Corporate travel ban,Voucher,OTA
+CXL-0507,2024-03-02,2024-03-27,25,Pre-Tension,Kempinski Hotels,Luxury,Saudi Arabia,Medina,German,Group,7,4,Standard,917.0,6419.0,Flight rerouting — extended journey,Full Refund,Direct Website
+CXL-0508,2026-06-13,2026-06-27,14,Post-Ceasefire,Best Western,Mid-Scale,Saudi Arabia,Medina,British,Group,4,6,Suite,1729.85,6919.4,Safety concerns — conflict proximity,Voucher,Direct Website
+CXL-0509,2026-03-19,2026-03-19,0,Peak Crisis,Jumeirah Group,Ultra-Luxury,Kuwait,Kuwait City,South African,Group,9,6,Presidential Suite,316.14,2845.27,Insurance non-coverage,Partial Refund,Direct Website
+CXL-0510,2026-02-26,2026-02-28,2,Peak Crisis,Accor Group,Multi-Scale,Qatar,Al Rayyan,French,Honeymoon,4,1,Standard,803.84,3215.36,Corporate travel ban,No Refund,Travel Agent
+CXL-0511,2025-10-02,2025-10-18,16,Active Conflict,Marriott International,Luxury/Upper-Upscale,Oman,Salalah,Australian,Honeymoon,14,3,Deluxe,783.52,10969.25,Cruise ship rerouted,Full Refund,Direct Website
+CXL-0512,2025-06-06,2025-07-26,50,Active Conflict,Four Seasons Hotels,Luxury,Saudi Arabia,Mecca,Canadian,Business,13,6,Presidential Suite,729.02,9477.26,Government travel advisory Level 4,Partial Refund,GDS
+CXL-0513,2024-11-15,2024-12-15,30,Pre-Tension,Sofitel (Accor),Luxury,Bahrain,Manama,Canadian,Leisure,3,2,Presidential Suite,1458.39,4375.17,Insurance non-coverage,Voucher,Travel Agent
+CXL-0514,2025-08-22,2025-09-27,36,Active Conflict,IHG Hotels & Resorts,Upper-Upscale,UAE,Sharjah,German,Leisure,12,6,Presidential Suite,444.95,5339.45,MICE event cancelled,No Refund,Direct Website
+CXL-0515,2025-11-27,2025-12-07,10,Active Conflict,Anantara Hotels,Luxury,Lebanon,Beirut,British,MICE,2,4,Pool Villa,1057.75,2115.49,Government travel advisory Level 4,Partial Refund,Corporate
+CXL-0516,2024-06-19,2024-08-15,57,Pre-Tension,Hilton Worldwide,Luxury/Upper-Upscale,Bahrain,Manama,Australian,Honeymoon,4,4,Pool Villa,1430.01,5720.06,Insurance non-coverage,No Refund,GDS
+CXL-0517,2025-09-04,2025-09-21,17,Active Conflict,Wyndham Hotels,Mid/Upper-Mid,Jordan,Amman,Italian,MICE,2,1,Suite,876.77,1753.54,Flight rerouting — extended journey,Full Refund,GDS
+CXL-0518,2026-04-21,2026-06-07,47,Post-Ceasefire,Best Western,Mid-Scale,UAE,Ajman,Indian,MICE,9,4,Standard,1617.65,14558.83,Safety concerns — conflict proximity,Partial Refund,GDS
+CXL-0519,2026-06-15,2026-06-28,13,Post-Ceasefire,Jumeirah Group,Ultra-Luxury,Qatar,Al Rayyan,Russian,Business,7,5,Suite,398.27,2787.92,Insurance non-coverage,Full Refund,OTA
+CXL-0520,2025-07-18,2025-08-29,42,Active Conflict,Wyndham Hotels,Mid/Upper-Mid,Oman,Muscat,South Korean,Group,2,4,Suite,1470.56,2941.12,Government travel advisory Level 4,Partial Refund,Travel Agent
+CXL-0521,2026-02-02,2026-03-11,37,Peak Crisis,Hilton Worldwide,Luxury/Upper-Upscale,Oman,Muscat,French,MICE,14,2,Suite,899.67,12595.31,Corporate travel ban,Full Refund,OTA
+CXL-0522,2026-03-05,2026-03-18,13,Peak Crisis,IHG Hotels & Resorts,Upper-Upscale,Qatar,Doha,Russian,MICE,5,4,Presidential Suite,1409.44,7047.18,Government travel advisory Level 4,No Refund,Direct Website
+CXL-0523,2026-05-26,2026-06-16,21,Post-Ceasefire,Mandarin Oriental,Ultra-Luxury,Bahrain,Manama,Spanish,MICE,3,2,Presidential Suite,1547.31,4641.92,Airspace closure — flight cancelled,Full Refund,OTA
+CXL-0524,2025-05-16,2025-05-19,3,Escalation,Hilton Worldwide,Luxury/Upper-Upscale,Qatar,Al Rayyan,British,Honeymoon,10,5,Pool Villa,1033.15,10331.53,Cruise ship rerouted,No Refund,Direct Website
+CXL-0525,2025-12-20,2025-12-24,4,Active Conflict,Mandarin Oriental,Ultra-Luxury,Lebanon,Beirut,Australian,Honeymoon,3,4,Deluxe,1000.29,3000.87,Airspace closure — flight cancelled,Full Refund,Corporate
+CXL-0526,2026-02-11,2026-03-15,32,Peak Crisis,Wyndham Hotels,Mid/Upper-Mid,Lebanon,Beirut,Japanese,Leisure,14,6,Pool Villa,1649.98,23099.71,Government travel advisory Level 4,No Refund,OTA
+CXL-0527,2025-03-14,2025-03-17,3,Escalation,Jumeirah Group,Ultra-Luxury,Oman,Muscat,Italian,Leisure,14,6,Suite,335.3,4694.27,Insurance non-coverage,Partial Refund,GDS
+CXL-0528,2026-06-06,2026-06-29,23,Post-Ceasefire,Rotana Hotels,Upper-Upscale,Jordan,Petra,American,Business,1,6,Standard,454.22,454.22,Government travel advisory Level 4,Voucher,Travel Agent
+CXL-0529,2026-02-23,2026-02-24,1,Peak Crisis,Hyatt Hotels,Luxury/Upper-Upscale,Qatar,Doha,Brazilian,Group,5,4,Suite,1738.61,8693.03,Safety concerns — conflict proximity,Full Refund,Direct Website
+CXL-0530,2026-02-14,2026-03-22,36,Peak Crisis,Best Western,Mid-Scale,Lebanon,Beirut,Brazilian,MICE,13,2,Pool Villa,235.1,3056.27,Hotel temporarily closed,No Refund,Corporate
+CXL-0531,2026-05-12,2026-06-19,38,Post-Ceasefire,Best Western,Mid-Scale,Saudi Arabia,Jeddah,French,Business,1,5,Standard,395.25,395.25,Force majeure — war clause,Voucher,GDS
+CXL-0532,2025-11-23,2025-12-15,22,Active Conflict,Anantara Hotels,Luxury,Egypt,Sharm el-Sheikh,Russian,MICE,14,1,Presidential Suite,1402.37,19633.19,Hotel temporarily closed,Full Refund,Direct Website
+CXL-0533,2024-10-21,2024-12-04,44,Pre-Tension,IHG Hotels & Resorts,Upper-Upscale,UAE,Sharjah,Russian,MICE,9,5,Standard,1264.43,11379.87,Insurance non-coverage,No Refund,GDS
+CXL-0534,2024-07-16,2024-08-03,18,Pre-Tension,IHG Hotels & Resorts,Upper-Upscale,Iraq,Erbil,Brazilian,Business,13,2,Standard,1418.62,18442.12,Flight rerouting — extended journey,Partial Refund,GDS
+CXL-0535,2026-06-10,2026-06-25,15,Post-Ceasefire,Hilton Worldwide,Luxury/Upper-Upscale,Jordan,Aqaba,French,Honeymoon,3,4,Suite,312.92,938.75,Corporate travel ban,Voucher,GDS
+CXL-0536,2025-09-10,2025-09-25,15,Active Conflict,Four Seasons Hotels,Luxury,Lebanon,Beirut,French,MICE,6,5,Standard,480.13,2880.77,Hotel temporarily closed,Partial Refund,GDS
+CXL-0537,2025-12-26,2025-12-28,2,Active Conflict,Jumeirah Group,Ultra-Luxury,Qatar,Al Rayyan,South African,Honeymoon,9,3,Standard,1081.59,9734.29,MICE event cancelled,Partial Refund,OTA
+CXL-0538,2025-09-07,2025-10-24,47,Active Conflict,IHG Hotels & Resorts,Upper-Upscale,Jordan,Petra,South Korean,Group,3,3,Deluxe,1246.1,3738.3,Flight rerouting — extended journey,Voucher,Direct Website
+CXL-0539,2025-04-17,2025-05-21,34,Escalation,Mandarin Oriental,Ultra-Luxury,Bahrain,Manama,South African,MICE,3,4,Standard,711.75,2135.26,Hotel temporarily closed,Partial Refund,Corporate
+CXL-0540,2026-02-14,2026-03-07,21,Peak Crisis,Sofitel (Accor),Luxury,Egypt,Sharm el-Sheikh,Spanish,Business,12,1,Pool Villa,415.65,4987.78,Airspace closure — flight cancelled,Full Refund,Travel Agent
+CXL-0541,2026-03-28,2026-03-28,0,Peak Crisis,Rotana Hotels,Upper-Upscale,Jordan,Amman,British,Business,5,3,Presidential Suite,1581.45,7907.26,Cruise ship rerouted,No Refund,GDS
+CXL-0542,2025-12-16,2025-12-27,11,Active Conflict,Hilton Worldwide,Luxury/Upper-Upscale,Bahrain,Muharraq,French,Honeymoon,14,6,Standard,615.09,8611.3,Airspace closure — flight cancelled,Partial Refund,Direct Website
+CXL-0543,2026-06-29,2026-06-29,0,Post-Ceasefire,Sofitel (Accor),Luxury,Lebanon,Beirut,Australian,Honeymoon,11,6,Standard,854.47,9399.18,Insurance non-coverage,Voucher,Travel Agent
+CXL-0544,2026-05-03,2026-06-02,30,Post-Ceasefire,Kempinski Hotels,Luxury,Egypt,Sharm el-Sheikh,American,Leisure,3,1,Standard,1325.51,3976.53,Force majeure — war clause,Full Refund,Corporate
+CXL-0545,2025-08-04,2025-09-04,31,Active Conflict,Hyatt Hotels,Luxury/Upper-Upscale,Egypt,Sharm el-Sheikh,Canadian,Honeymoon,7,1,Presidential Suite,1457.39,10201.7,Flight rerouting — extended journey,Voucher,Corporate
+CXL-0546,2026-03-24,2026-03-27,3,Peak Crisis,Hyatt Hotels,Luxury/Upper-Upscale,Bahrain,Muharraq,French,Honeymoon,3,3,Deluxe,499.38,1498.13,Safety concerns — conflict proximity,No Refund,Direct Website
+CXL-0547,2025-12-13,2025-12-28,15,Active Conflict,Mandarin Oriental,Ultra-Luxury,Egypt,Hurghada,Chinese,Group,3,4,Suite,902.71,2708.13,Airspace closure — flight cancelled,Partial Refund,OTA
+CXL-0548,2026-03-08,2026-03-24,16,Peak Crisis,Hilton Worldwide,Luxury/Upper-Upscale,Oman,Muscat,Russian,Leisure,2,3,Deluxe,1018.45,2036.89,Insurance non-coverage,Partial Refund,Corporate
+CXL-0549,2025-12-29,2025-12-30,1,Active Conflict,Jumeirah Group,Ultra-Luxury,Lebanon,Beirut,German,Leisure,14,5,Suite,1590.75,22270.49,Flight rerouting — extended journey,No Refund,Corporate
+CXL-0550,2026-02-01,2026-02-24,23,Peak Crisis,Radisson Hotel Group,Upper-Upscale,Lebanon,Beirut,Russian,Honeymoon,13,4,Deluxe,242.36,3150.72,Cruise ship rerouted,Partial Refund,Corporate
+CXL-0551,2025-07-04,2025-09-24,82,Active Conflict,Anantara Hotels,Luxury,UAE,Abu Dhabi,Brazilian,Group,6,3,Presidential Suite,822.05,4932.29,MICE event cancelled,No Refund,Travel Agent
+CXL-0552,2026-02-26,2026-03-26,28,Peak Crisis,Jumeirah Group,Ultra-Luxury,Lebanon,Beirut,Russian,Business,13,5,Presidential Suite,1002.69,13034.94,Government travel advisory Level 4,Partial Refund,Corporate
+CXL-0553,2025-12-01,2025-12-10,9,Active Conflict,Four Seasons Hotels,Luxury,Oman,Muscat,Chinese,Group,2,1,Deluxe,1325.36,2650.73,Airline suspension of routes,No Refund,OTA
+CXL-0554,2025-03-13,2025-05-10,58,Escalation,Radisson Hotel Group,Upper-Upscale,Bahrain,Muharraq,Canadian,Business,10,4,Pool Villa,377.1,3771.05,MICE event cancelled,Voucher,GDS
+CXL-0555,2025-10-23,2025-12-25,63,Active Conflict,Hilton Worldwide,Luxury/Upper-Upscale,Egypt,Sharm el-Sheikh,Canadian,Business,12,4,Deluxe,1064.03,12768.31,Airspace closure — flight cancelled,Full Refund,Corporate
+CXL-0556,2026-01-16,2026-01-18,2,Peak Crisis,Four Seasons Hotels,Luxury,UAE,Dubai,Russian,Group,5,2,Pool Villa,982.61,4913.03,Airspace closure — flight cancelled,Voucher,Direct Website
+CXL-0557,2025-08-22,2025-10-23,62,Active Conflict,Hilton Worldwide,Luxury/Upper-Upscale,Oman,Salalah,Spanish,Leisure,5,5,Pool Villa,1415.91,7079.56,Insurance non-coverage,Voucher,OTA
+CXL-0558,2026-03-27,2026-03-27,0,Peak Crisis,Marriott International,Luxury/Upper-Upscale,Lebanon,Beirut,Chinese,Honeymoon,12,3,Presidential Suite,1191.42,14297.02,Safety concerns — conflict proximity,No Refund,Direct Website
+CXL-0559,2026-03-03,2026-03-30,27,Peak Crisis,Best Western,Mid-Scale,Kuwait,Kuwait City,South Korean,MICE,6,6,Pool Villa,1237.73,7426.38,Airline suspension of routes,Full Refund,GDS
+CXL-0560,2025-02-01,2025-04-17,75,Escalation,Four Seasons Hotels,Luxury,Egypt,Cairo,French,MICE,6,1,Deluxe,447.07,2682.41,Airline suspension of routes,No Refund,Direct Website
+CXL-0561,2026-05-30,2026-06-22,23,Post-Ceasefire,Radisson Hotel Group,Upper-Upscale,Egypt,Sharm el-Sheikh,South African,Business,8,4,Presidential Suite,500.92,4007.32,Corporate travel ban,Voucher,GDS
+CXL-0562,2024-12-06,2024-12-08,2,Pre-Tension,Four Seasons Hotels,Luxury,UAE,Sharjah,American,MICE,11,5,Standard,872.05,9592.5,Flight rerouting — extended journey,Voucher,OTA
+CXL-0563,2026-03-29,2026-03-31,2,Peak Crisis,Mandarin Oriental,Ultra-Luxury,Qatar,Doha,South Korean,Honeymoon,7,1,Standard,1701.61,11911.28,Flight rerouting — extended journey,No Refund,Travel Agent
+CXL-0564,2025-11-29,2025-12-25,26,Active Conflict,Sofitel (Accor),Luxury,Iraq,Erbil,Spanish,Leisure,11,3,Presidential Suite,933.04,10263.4,Government travel advisory Level 4,Partial Refund,GDS
+CXL-0565,2026-02-17,2026-03-13,24,Peak Crisis,Kempinski Hotels,Luxury,Jordan,Petra,Italian,Leisure,13,2,Deluxe,1441.35,18737.51,Safety concerns — conflict proximity,No Refund,Direct Website
+CXL-0566,2025-10-25,2025-12-11,47,Active Conflict,Wyndham Hotels,Mid/Upper-Mid,Qatar,Al Rayyan,South African,Group,9,4,Presidential Suite,1350.62,12155.56,Airline suspension of routes,No Refund,OTA
+CXL-0567,2025-10-22,2025-11-02,11,Active Conflict,Hyatt Hotels,Luxury/Upper-Upscale,UAE,Ras Al Khaimah,South Korean,MICE,9,6,Presidential Suite,519.6,4676.36,Insurance non-coverage,No Refund,Travel Agent
+CXL-0568,2026-01-10,2026-02-02,23,Peak Crisis,Accor Group,Multi-Scale,Jordan,Amman,South Korean,Business,10,6,Presidential Suite,1204.37,12043.68,Cruise ship rerouted,Partial Refund,OTA
+CXL-0569,2026-02-20,2026-03-03,11,Peak Crisis,Best Western,Mid-Scale,Egypt,Hurghada,South Korean,Leisure,12,3,Pool Villa,571.85,6862.2,Corporate travel ban,Full Refund,Corporate
+CXL-0570,2026-02-20,2026-03-17,25,Peak Crisis,Marriott International,Luxury/Upper-Upscale,Bahrain,Manama,German,Leisure,11,4,Standard,481.4,5295.45,Corporate travel ban,Full Refund,Travel Agent
+CXL-0571,2025-09-23,2025-11-27,65,Active Conflict,Mandarin Oriental,Ultra-Luxury,Egypt,Sharm el-Sheikh,Indian,Honeymoon,12,6,Standard,241.53,2898.37,Government travel advisory Level 4,Partial Refund,GDS
+CXL-0572,2026-01-26,2026-03-27,60,Peak Crisis,Wyndham Hotels,Mid/Upper-Mid,Bahrain,Muharraq,South African,Business,3,4,Pool Villa,1671.16,5013.47,Corporate travel ban,Voucher,Travel Agent
+CXL-0573,2025-11-26,2025-11-29,3,Active Conflict,Accor Group,Multi-Scale,Oman,Salalah,Spanish,Leisure,9,5,Presidential Suite,1114.87,10033.84,Government travel advisory Level 4,Partial Refund,Corporate
+CXL-0574,2026-05-20,2026-06-27,38,Post-Ceasefire,Wyndham Hotels,Mid/Upper-Mid,Iraq,Baghdad,Brazilian,Group,5,6,Standard,1056.0,5280.02,Airspace closure — flight cancelled,Partial Refund,Corporate
+CXL-0575,2025-12-16,2025-12-19,3,Active Conflict,Best Western,Mid-Scale,Bahrain,Manama,Brazilian,MICE,9,5,Presidential Suite,471.81,4246.28,Airspace closure — flight cancelled,Partial Refund,OTA
+CXL-0576,2025-12-12,2025-12-29,17,Active Conflict,Hilton Worldwide,Luxury/Upper-Upscale,Lebanon,Beirut,Italian,Business,6,4,Pool Villa,945.35,5672.09,Government travel advisory Level 4,No Refund,Direct Website
+CXL-0577,2026-03-24,2026-03-29,5,Peak Crisis,Rotana Hotels,Upper-Upscale,Saudi Arabia,NEOM area,Australian,Group,6,4,Suite,1392.27,8353.59,Corporate travel ban,Partial Refund,Direct Website
+CXL-0578,2025-09-03,2025-10-19,46,Active Conflict,Jumeirah Group,Ultra-Luxury,Qatar,Al Rayyan,South African,Group,8,6,Deluxe,192.62,1540.98,Airspace closure — flight cancelled,Partial Refund,Direct Website
+CXL-0579,2026-01-23,2026-02-20,28,Peak Crisis,Hyatt Hotels,Luxury/Upper-Upscale,Bahrain,Muharraq,Australian,Leisure,9,4,Suite,1019.81,9178.26,Airline suspension of routes,No Refund,Corporate
+CXL-0580,2026-02-08,2026-03-11,31,Peak Crisis,Jumeirah Group,Ultra-Luxury,Qatar,Al Rayyan,Australian,MICE,11,3,Presidential Suite,1553.31,17086.44,Force majeure — war clause,No Refund,GDS
+CXL-0581,2024-12-16,2024-12-20,4,Pre-Tension,Hilton Worldwide,Luxury/Upper-Upscale,Lebanon,Beirut,American,Honeymoon,13,1,Suite,1673.45,21754.81,Cruise ship rerouted,Full Refund,Corporate
+CXL-0582,2026-03-11,2026-03-26,15,Peak Crisis,Four Seasons Hotels,Luxury,Oman,Salalah,Italian,MICE,5,3,Pool Villa,1387.78,6938.88,Government travel advisory Level 4,Full Refund,GDS
+CXL-0583,2026-01-14,2026-01-14,0,Peak Crisis,Radisson Hotel Group,Upper-Upscale,Lebanon,Beirut,Indian,MICE,10,4,Presidential Suite,1476.13,14761.31,Insurance non-coverage,Full Refund,Corporate
+CXL-0584,2025-10-15,2025-12-24,70,Active Conflict,IHG Hotels & Resorts,Upper-Upscale,Jordan,Aqaba,Indian,Group,14,4,Suite,1446.58,20252.12,Airline suspension of routes,Partial Refund,Direct Website
+CXL-0585,2025-09-22,2025-11-17,56,Active Conflict,IHG Hotels & Resorts,Upper-Upscale,Kuwait,Kuwait City,Brazilian,Business,4,4,Deluxe,1102.31,4409.24,Insurance non-coverage,Partial Refund,Corporate
+CXL-0586,2025-01-20,2025-03-05,44,Escalation,IHG Hotels & Resorts,Upper-Upscale,UAE,Abu Dhabi,South African,Group,8,3,Deluxe,491.11,3928.92,Force majeure — war clause,No Refund,OTA
+CXL-0587,2025-07-13,2025-07-27,14,Active Conflict,Marriott International,Luxury/Upper-Upscale,Iraq,Erbil,Australian,Business,6,6,Presidential Suite,156.44,938.66,Airspace closure — flight cancelled,Voucher,Corporate
+CXL-0588,2025-10-31,2025-11-04,4,Active Conflict,Rotana Hotels,Upper-Upscale,Kuwait,Kuwait City,Russian,Group,8,4,Standard,539.8,4318.41,MICE event cancelled,No Refund,Corporate
+CXL-0589,2025-05-23,2025-05-24,1,Escalation,Radisson Hotel Group,Upper-Upscale,Egypt,Hurghada,Chinese,Business,12,2,Pool Villa,791.63,9499.57,Flight rerouting — extended journey,No Refund,Corporate
+CXL-0590,2025-08-16,2025-10-19,64,Active Conflict,Anantara Hotels,Luxury,Iraq,Erbil,French,Leisure,11,3,Pool Villa,896.93,9866.2,Hotel temporarily closed,No Refund,GDS
+CXL-0591,2025-12-20,2025-12-31,11,Active Conflict,Hilton Worldwide,Luxury/Upper-Upscale,Iraq,Erbil,Chinese,Business,7,2,Suite,1543.02,10801.14,Flight rerouting — extended journey,No Refund,Travel Agent
+CXL-0592,2025-08-11,2025-09-10,30,Active Conflict,Hyatt Hotels,Luxury/Upper-Upscale,Egypt,Sharm el-Sheikh,Indian,Honeymoon,2,2,Presidential Suite,516.73,1033.46,Flight rerouting — extended journey,No Refund,Travel Agent
+CXL-0593,2026-04-10,2026-06-28,79,Post-Ceasefire,Mandarin Oriental,Ultra-Luxury,Saudi Arabia,Dammam,Chinese,Group,10,5,Pool Villa,923.97,9239.74,Cruise ship rerouted,Partial Refund,Direct Website
+CXL-0594,2026-03-18,2026-03-18,0,Peak Crisis,Wyndham Hotels,Mid/Upper-Mid,UAE,Dubai,Chinese,Leisure,10,1,Presidential Suite,677.49,6774.87,Airline suspension of routes,Voucher,GDS
+CXL-0595,2026-02-06,2026-02-08,2,Peak Crisis,Rotana Hotels,Upper-Upscale,Oman,Muscat,German,MICE,4,3,Presidential Suite,649.81,2599.25,Safety concerns — conflict proximity,Voucher,OTA
+CXL-0596,2026-04-25,2026-05-24,29,Post-Ceasefire,Mandarin Oriental,Ultra-Luxury,Bahrain,Manama,French,MICE,13,4,Deluxe,704.79,9162.23,Corporate travel ban,Voucher,GDS
+CXL-0597,2026-06-14,2026-06-14,0,Post-Ceasefire,Mandarin Oriental,Ultra-Luxury,Iraq,Erbil,Italian,Leisure,3,5,Pool Villa,456.74,1370.23,Insurance non-coverage,Full Refund,Corporate
+CXL-0598,2026-03-04,2026-03-28,24,Peak Crisis,Jumeirah Group,Ultra-Luxury,Oman,Salalah,Italian,Group,11,5,Deluxe,391.4,4305.35,Flight rerouting — extended journey,Voucher,Direct Website
+CXL-0599,2024-08-28,2024-10-25,58,Pre-Tension,Sofitel (Accor),Luxury,Bahrain,Manama,South Korean,Group,7,4,Pool Villa,829.66,5807.62,Flight rerouting — extended journey,No Refund,GDS
+CXL-0600,2026-04-08,2026-06-29,82,Post-Ceasefire,Wyndham Hotels,Mid/Upper-Mid,Kuwait,Kuwait City,German,Honeymoon,11,1,Presidential Suite,882.09,9702.98,Safety concerns — conflict proximity,Full Refund,OTA
