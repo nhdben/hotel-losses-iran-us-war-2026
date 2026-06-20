@@ -44,7 +44,7 @@ revenue loss, occupancy collapse, and long-term recovery uncertainty.
 
 - Exploratory Data Analysis (EDA)
 - Correlation analysis
-- Linear regression (scikit-learn) — R² = 0.9482
+- Linear regression (scikit-learn)
 - Recovery scenario forecasting
 
 ---
